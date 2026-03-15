@@ -1,5 +1,3 @@
-"""Download Hotel Booking Demand dataset from Kaggle."""
-
 import shutil
 from pathlib import Path
 
