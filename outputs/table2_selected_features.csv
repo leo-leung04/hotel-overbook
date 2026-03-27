@@ -1,0 +1,13 @@
+Feature,Description
+lead_time,Days between booking and arrival
+deposit_type_Non Refund,deposit_type (one-hot)
+adr,Average daily rate
+country_PRT,country (one-hot)
+total_of_special_requests,Number of special requests
+arrival_date_day_of_month,Day of month of arrival
+arrival_date_week_number,Week number of arrival
+stays_in_week_nights,Number of week nights
+previous_cancellations,Previous cancellations by customer
+stays_in_weekend_nights,Number of weekend nights
+arrival_date_year,Year of arrival
+market_segment_Online TA,market_segment (one-hot)
