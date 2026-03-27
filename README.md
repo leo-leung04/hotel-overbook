@@ -45,6 +45,8 @@ Open and run the notebooks in this order:
 3. `part2_optim.ipynb` — use predictions to optimize overbooking policy
 4. `part3_analysis.ipynb` — evaluate results and visualize outcomes
 
+**This step is required to be ran sequentially as notebooks depend on the generated joblibs of the previous notebooks.**
+
 ---
 
 ## Dependencies

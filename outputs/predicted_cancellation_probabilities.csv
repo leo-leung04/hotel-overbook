@@ -34,7 +34,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 58659,City Hotel,2016,October,1,1.0
 30437,Resort Hotel,2016,November,0,0.04
 23553,Resort Hotel,2016,April,0,0.02
-110346,City Hotel,2017,April,0,0.6704047619047618
+110346,City Hotel,2017,April,0,0.6704047619047617
 81881,City Hotel,2016,April,1,0.91
 117289,City Hotel,2017,July,0,0.29
 105688,City Hotel,2017,February,0,0.09
@@ -120,7 +120,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 30923,Resort Hotel,2016,December,0,0.27
 114726,City Hotel,2017,June,0,0.0
 115576,City Hotel,2017,July,0,0.4
-44587,City Hotel,2015,October,0,0.11188877462406871
+44587,City Hotel,2015,October,0,0.11188877462406874
 94237,City Hotel,2017,July,0,0.02
 25398,Resort Hotel,2016,June,0,0.17
 48823,City Hotel,2016,March,1,1.0
@@ -160,7 +160,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 1614,Resort Hotel,2015,September,1,0.396
 108102,City Hotel,2017,March,0,0.01
 5612,Resort Hotel,2016,May,0,0.0
-4237,Resort Hotel,2016,February,1,0.0918226714063698
+4237,Resort Hotel,2016,February,1,0.09182267140636981
 65895,City Hotel,2017,April,1,0.59
 98530,City Hotel,2016,September,0,0.2925
 17286,Resort Hotel,2015,September,0,0.0
@@ -184,7 +184,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 8293,Resort Hotel,2016,September,1,0.84
 20874,Resort Hotel,2016,February,0,0.02
 109541,City Hotel,2017,April,0,0.5
-115511,City Hotel,2017,July,0,0.18513061938061937
+115511,City Hotel,2017,July,0,0.18513061938061934
 48647,City Hotel,2016,March,1,1.0
 107021,City Hotel,2017,March,0,0.03
 95977,City Hotel,2016,August,0,0.43
@@ -213,10 +213,10 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 84366,City Hotel,2016,April,0,0.04
 51478,City Hotel,2016,May,1,1.0
 32959,Resort Hotel,2017,January,0,0.55
-42689,City Hotel,2015,September,0,0.06789395937117458
+42689,City Hotel,2015,September,0,0.06789395937117457
 1239,Resort Hotel,2015,August,0,0.01
 97924,City Hotel,2016,September,0,0.0
-32563,Resort Hotel,2017,January,0,0.18219047619047618
+32563,Resort Hotel,2017,January,0,0.1821904761904762
 80852,City Hotel,2016,January,0,0.02
 100632,City Hotel,2016,October,0,0.6982007575757576
 28447,Resort Hotel,2016,October,0,0.2
@@ -304,7 +304,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 42504,City Hotel,2015,September,1,0.62
 75103,City Hotel,2015,July,1,1.0
 87702,City Hotel,2016,April,0,0.1528927203065134
-19889,Resort Hotel,2016,January,0,0.34646828463933715
+19889,Resort Hotel,2016,January,0,0.3464682846393372
 116484,City Hotel,2017,July,0,0.03
 52392,City Hotel,2016,June,0,0.19
 79259,City Hotel,2016,December,1,1.0
@@ -331,7 +331,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 69385,City Hotel,2017,May,1,1.0
 97923,City Hotel,2016,September,0,0.2
 23599,Resort Hotel,2016,April,0,0.2007142857142857
-68124,City Hotel,2017,May,1,0.75875
+68124,City Hotel,2017,May,1,0.7587499999999998
 101507,City Hotel,2016,November,0,0.42
 61709,City Hotel,2016,December,1,0.69
 69193,City Hotel,2017,May,1,0.55
@@ -471,7 +471,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 13599,Resort Hotel,2017,August,1,0.63
 111631,City Hotel,2017,May,0,0.16
 5314,Resort Hotel,2016,April,1,0.43
-32222,Resort Hotel,2017,January,0,0.1576451543839672
+32222,Resort Hotel,2017,January,0,0.15764515438396717
 65415,City Hotel,2017,April,1,1.0
 80557,City Hotel,2015,November,0,0.27
 21598,Resort Hotel,2016,March,0,0.15
@@ -522,7 +522,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 96128,City Hotel,2016,August,0,0.29
 90326,City Hotel,2016,June,0,0.0
 12810,Resort Hotel,2017,July,1,0.68
-45749,City Hotel,2015,November,0,0.02942441629521091
+45749,City Hotel,2015,November,0,0.029424416295210917
 67708,City Hotel,2017,May,1,0.825
 52786,City Hotel,2016,June,1,1.0
 6116,Resort Hotel,2016,May,1,0.2803225806451613
@@ -593,7 +593,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 58935,City Hotel,2016,October,1,0.63
 63246,City Hotel,2017,February,1,0.23
 105576,City Hotel,2017,February,0,0.0
-43315,City Hotel,2015,September,0,0.105537074037074
+43315,City Hotel,2015,September,0,0.10553707403707403
 32346,Resort Hotel,2017,January,0,0.02
 53320,City Hotel,2016,June,1,1.0
 97732,City Hotel,2016,September,0,0.04364372469635627
@@ -675,7 +675,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 2579,Resort Hotel,2015,October,0,0.0
 16953,Resort Hotel,2015,September,0,0.0
 93370,City Hotel,2016,July,0,0.0
-67243,City Hotel,2017,April,1,0.5166666666666666
+67243,City Hotel,2017,April,1,0.5166666666666667
 57103,City Hotel,2016,September,1,0.97
 70580,City Hotel,2017,June,1,0.16
 92627,City Hotel,2016,July,0,0.01
@@ -683,7 +683,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 113974,City Hotel,2017,June,0,0.5708333333333333
 113398,City Hotel,2017,June,0,0.3
 91874,City Hotel,2016,June,0,0.0
-24540,Resort Hotel,2016,May,0,0.24708333333333335
+24540,Resort Hotel,2016,May,0,0.24708333333333332
 29411,Resort Hotel,2017,May,0,0.05
 14114,Resort Hotel,2015,November,0,0.0
 97140,City Hotel,2016,September,0,0.0
@@ -733,7 +733,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 73274,City Hotel,2017,August,1,0.91
 106837,City Hotel,2017,March,0,0.0
 55764,City Hotel,2016,August,1,0.73
-40576,City Hotel,2015,August,0,0.6843043462815137
+40576,City Hotel,2015,August,0,0.6843043462815136
 75805,City Hotel,2015,September,1,1.0
 86642,City Hotel,2016,April,0,0.021354144133885807
 83886,City Hotel,2016,February,0,0.07
@@ -806,7 +806,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 101143,City Hotel,2016,November,0,0.25
 91921,City Hotel,2016,June,0,0.48590389185977423
 64778,City Hotel,2017,March,1,1.0
-99573,City Hotel,2016,October,0,0.35652691134115294
+99573,City Hotel,2016,October,0,0.3565269113411529
 99157,City Hotel,2016,October,0,0.0
 93079,City Hotel,2016,July,0,0.45
 118385,City Hotel,2017,August,0,0.06
@@ -857,7 +857,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 91344,City Hotel,2016,June,0,0.3
 21502,Resort Hotel,2017,May,0,0.01
 109230,City Hotel,2017,April,0,0.0
-21231,Resort Hotel,2016,February,0,0.07166666666666667
+21231,Resort Hotel,2016,February,0,0.07166666666666666
 32672,Resort Hotel,2017,January,0,0.04
 100950,City Hotel,2016,November,0,0.38
 109869,City Hotel,2017,April,0,0.05
@@ -872,7 +872,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 103016,City Hotel,2016,December,0,0.0
 1563,Resort Hotel,2015,September,1,0.756655303030303
 29895,Resort Hotel,2016,November,0,0.46
-32236,Resort Hotel,2017,January,0,0.1576451543839672
+32236,Resort Hotel,2017,January,0,0.15764515438396717
 112244,City Hotel,2017,May,0,0.58325
 6106,Resort Hotel,2016,May,0,0.0
 63391,City Hotel,2017,February,1,0.76
@@ -913,14 +913,14 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 15192,Resort Hotel,2015,September,1,1.0
 34895,Resort Hotel,2017,April,0,0.04
 38344,Resort Hotel,2017,July,0,0.6
-114652,City Hotel,2017,June,0,0.4107261904761904
+114652,City Hotel,2017,June,0,0.4107261904761905
 34770,Resort Hotel,2017,March,0,0.08673809523809524
 71955,City Hotel,2017,July,1,0.58
 94330,City Hotel,2016,July,0,0.09
 88537,City Hotel,2016,May,0,0.04
 23963,Resort Hotel,2016,May,0,0.0
 47388,City Hotel,2016,February,1,0.89
-42725,City Hotel,2015,September,0,0.06789395937117458
+42725,City Hotel,2015,September,0,0.06789395937117457
 17745,Resort Hotel,2015,October,0,0.35
 10982,Resort Hotel,2017,April,1,0.76
 16805,Resort Hotel,2015,September,0,0.04
@@ -989,7 +989,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 91258,City Hotel,2016,June,0,0.1
 1527,Resort Hotel,2015,September,1,0.6
 35866,Resort Hotel,2017,April,0,0.01
-101868,City Hotel,2016,November,0,0.4854166666666667
+101868,City Hotel,2016,November,0,0.48541666666666666
 92381,City Hotel,2016,July,0,0.19
 6385,Resort Hotel,2016,June,1,0.66
 43237,City Hotel,2015,September,0,0.03
@@ -1181,7 +1181,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 33407,Resort Hotel,2017,February,0,0.22
 86740,City Hotel,2016,April,0,0.03
 24608,Resort Hotel,2016,May,0,0.0
-40454,City Hotel,2015,July,0,0.5342806819199745
+40454,City Hotel,2015,July,0,0.5342806819199746
 106258,City Hotel,2017,February,0,0.69
 21278,Resort Hotel,2016,February,0,0.0
 117772,City Hotel,2017,July,0,0.07
@@ -1210,7 +1210,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 119129,City Hotel,2017,August,0,0.35
 14993,Resort Hotel,2015,July,1,1.0
 57736,City Hotel,2016,September,1,1.0
-45782,City Hotel,2015,November,0,0.02942441629521091
+45782,City Hotel,2015,November,0,0.029424416295210917
 112492,City Hotel,2017,May,0,0.1
 37279,Resort Hotel,2017,June,0,0.49916666666666665
 60738,City Hotel,2016,November,1,0.5
@@ -1257,7 +1257,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 118920,City Hotel,2017,August,0,0.76
 51370,City Hotel,2016,May,1,1.0
 96272,City Hotel,2016,August,0,0.04
-41123,City Hotel,2015,August,1,0.059471607637612466
+41123,City Hotel,2015,August,1,0.05947160763761247
 118238,City Hotel,2017,August,0,0.16
 1761,Resort Hotel,2015,September,1,0.86
 65602,City Hotel,2017,April,1,0.63
@@ -1284,7 +1284,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 40697,City Hotel,2015,August,1,0.72
 32162,Resort Hotel,2017,January,0,0.15
 118133,City Hotel,2017,August,0,0.0
-50688,City Hotel,2016,May,1,0.8460158730158726
+50688,City Hotel,2016,May,1,0.8460158730158724
 117930,City Hotel,2017,August,0,0.26
 1767,Resort Hotel,2015,September,1,0.63
 94375,City Hotel,2016,August,0,0.03
@@ -1345,7 +1345,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 31939,Resort Hotel,2017,January,0,0.03
 103519,City Hotel,2016,December,0,0.07
 28380,Resort Hotel,2016,September,0,0.19
-41697,City Hotel,2015,August,1,0.6721843883240942
+41697,City Hotel,2015,August,1,0.672184388324094
 66521,City Hotel,2017,April,1,0.917
 99391,City Hotel,2016,October,0,0.0
 68211,City Hotel,2017,May,1,1.0
@@ -1389,7 +1389,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 98410,City Hotel,2016,September,0,0.14
 55934,City Hotel,2016,August,1,1.0
 705,Resort Hotel,2015,July,0,0.19
-40981,City Hotel,2015,August,1,0.4964619087053297
+40981,City Hotel,2015,August,1,0.49646190870532986
 20596,Resort Hotel,2016,February,0,0.0
 101229,City Hotel,2016,November,0,0.45
 87105,City Hotel,2016,April,0,0.24
@@ -1398,7 +1398,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 75940,City Hotel,2015,August,1,1.0
 39714,Resort Hotel,2017,August,0,0.33
 111734,City Hotel,2017,May,0,0.25
-32223,Resort Hotel,2017,January,0,0.1576451543839672
+32223,Resort Hotel,2017,January,0,0.15764515438396717
 94453,City Hotel,2016,August,0,0.13
 86116,City Hotel,2016,March,0,0.2
 86266,City Hotel,2016,November,1,0.08
@@ -1409,12 +1409,12 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 54197,City Hotel,2016,July,1,0.89
 55050,City Hotel,2016,August,1,0.8
 114302,City Hotel,2017,June,0,0.1575
-8804,Resort Hotel,2016,October,1,0.30750000000000005
+8804,Resort Hotel,2016,October,1,0.3075
 115989,City Hotel,2017,July,0,0.18166666666666667
 81930,City Hotel,2016,August,1,1.0
 43910,City Hotel,2015,September,1,1.0
 45286,City Hotel,2015,October,0,0.0
-84135,City Hotel,2016,February,0,0.14023917748917744
+84135,City Hotel,2016,February,0,0.14023917748917747
 18815,Resort Hotel,2015,November,0,0.05
 32343,Resort Hotel,2017,January,0,0.27
 79737,City Hotel,2016,April,0,0.04
@@ -1432,7 +1432,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 89241,City Hotel,2016,May,0,0.05
 77894,City Hotel,2015,September,0,0.08
 46440,City Hotel,2016,January,0,0.06
-4230,Resort Hotel,2016,February,0,0.0918226714063698
+4230,Resort Hotel,2016,February,0,0.09182267140636981
 26159,Resort Hotel,2016,July,0,0.01
 100358,City Hotel,2016,October,0,0.04
 70511,City Hotel,2017,June,1,1.0
@@ -1440,7 +1440,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 86776,City Hotel,2016,April,0,0.05
 225,Resort Hotel,2015,July,0,0.01
 75506,City Hotel,2015,September,1,1.0
-84118,City Hotel,2016,February,0,0.14023917748917744
+84118,City Hotel,2016,February,0,0.14023917748917747
 20587,Resort Hotel,2016,February,0,0.27
 50722,City Hotel,2016,May,0,0.95
 3250,Resort Hotel,2015,November,0,0.0
@@ -1518,7 +1518,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 7444,Resort Hotel,2016,August,1,0.15
 100154,City Hotel,2016,October,0,0.24
 43979,City Hotel,2015,September,1,1.0
-67132,City Hotel,2017,April,1,0.46
+67132,City Hotel,2017,April,1,0.4600000000000001
 32323,Resort Hotel,2017,January,0,0.45
 65397,City Hotel,2017,April,1,0.31
 31098,Resort Hotel,2016,December,0,0.03
@@ -1609,7 +1609,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 74911,City Hotel,2015,September,1,1.0
 98783,City Hotel,2016,October,0,0.01
 101707,City Hotel,2016,November,0,0.075
-115465,City Hotel,2017,July,0,0.4372619047619048
+115465,City Hotel,2017,July,0,0.43726190476190474
 10413,Resort Hotel,2017,March,1,0.9866666666666667
 29841,Resort Hotel,2016,November,0,0.03
 63612,City Hotel,2017,February,1,0.89
@@ -1640,14 +1640,14 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 51041,City Hotel,2016,May,1,1.0
 115039,City Hotel,2017,June,0,0.0
 94281,City Hotel,2016,August,0,0.02
-5786,Resort Hotel,2016,May,1,0.8833333333333333
+5786,Resort Hotel,2016,May,1,0.8833333333333334
 2108,Resort Hotel,2015,October,0,0.01
 74056,City Hotel,2015,August,1,1.0
 97601,City Hotel,2016,September,0,0.87
 3782,Resort Hotel,2016,January,1,0.6428571428571428
 97947,City Hotel,2016,September,0,0.04
 48481,City Hotel,2016,March,0,0.5316666666666666
-4771,Resort Hotel,2016,March,0,0.16107287157287153
+4771,Resort Hotel,2016,March,0,0.16107287157287156
 15868,Resort Hotel,2015,July,0,0.01
 52282,City Hotel,2016,June,1,0.965
 90426,City Hotel,2016,June,0,0.0
@@ -1760,7 +1760,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 5483,Resort Hotel,2016,April,1,0.10333333333333333
 115348,City Hotel,2017,July,0,0.22
 84984,City Hotel,2016,March,0,0.04
-1354,Resort Hotel,2015,August,0,0.07738095238095238
+1354,Resort Hotel,2015,August,0,0.07738095238095237
 96358,City Hotel,2016,August,0,0.02
 33429,Resort Hotel,2017,February,0,0.0
 5542,Resort Hotel,2016,May,1,1.0
@@ -1874,7 +1874,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 68611,City Hotel,2017,May,1,1.0
 57046,City Hotel,2016,September,1,1.0
 66557,City Hotel,2017,April,1,0.95
-30367,Resort Hotel,2016,November,0,0.18833333333333332
+30367,Resort Hotel,2016,November,0,0.18833333333333335
 124,Resort Hotel,2015,July,1,0.56
 76881,City Hotel,2015,October,1,1.0
 67949,City Hotel,2017,May,1,1.0
@@ -2046,7 +2046,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 6519,Resort Hotel,2016,June,1,0.7
 30344,Resort Hotel,2016,November,0,0.105
 77334,City Hotel,2015,December,1,0.98
-41738,City Hotel,2015,August,1,0.6721843883240942
+41738,City Hotel,2015,August,1,0.672184388324094
 72867,City Hotel,2017,August,1,0.6209523809523809
 56865,City Hotel,2016,September,1,1.0
 69450,City Hotel,2017,May,1,1.0
@@ -2165,7 +2165,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 102771,City Hotel,2016,November,0,0.25035714285714283
 11711,Resort Hotel,2017,May,1,0.41727272727272735
 108358,City Hotel,2017,March,0,0.0
-40077,City Hotel,2015,July,0,0.310960123210123
+40077,City Hotel,2015,July,0,0.3109601232101232
 27687,Resort Hotel,2016,September,0,0.03
 70563,City Hotel,2017,June,1,0.05
 88804,City Hotel,2016,May,0,0.006666666666666666
@@ -2232,7 +2232,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 36217,Resort Hotel,2017,May,0,0.03
 46796,City Hotel,2016,January,1,1.0
 88099,City Hotel,2016,April,0,0.82
-32224,Resort Hotel,2017,January,0,0.1576451543839672
+32224,Resort Hotel,2017,January,0,0.15764515438396717
 115371,City Hotel,2017,July,0,0.0
 93218,City Hotel,2016,July,0,0.24
 54560,City Hotel,2016,July,1,1.0
@@ -2281,7 +2281,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 72046,City Hotel,2017,July,1,1.0
 49087,City Hotel,2016,April,1,1.0
 49451,City Hotel,2016,April,1,1.0
-18958,Resort Hotel,2015,December,0,0.12166666666666667
+18958,Resort Hotel,2015,December,0,0.12166666666666666
 45724,City Hotel,2015,November,0,0.0
 99750,City Hotel,2016,October,0,0.08
 89886,City Hotel,2016,May,0,0.58
@@ -2289,7 +2289,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 92543,City Hotel,2016,July,0,0.05
 19505,Resort Hotel,2015,December,0,0.02
 104388,City Hotel,2017,January,0,0.3107142857142857
-24904,Resort Hotel,2016,June,0,0.2980833333333333
+24904,Resort Hotel,2016,June,0,0.29808333333333337
 50146,City Hotel,2016,April,1,1.0
 29273,Resort Hotel,2016,October,0,0.01
 11974,Resort Hotel,2017,June,1,0.58
@@ -2532,7 +2532,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 51706,City Hotel,2016,May,1,1.0
 23067,Resort Hotel,2016,April,0,0.04
 13416,Resort Hotel,2017,August,1,0.81
-44530,City Hotel,2015,October,0,0.05933147602823047
+44530,City Hotel,2015,October,0,0.059331476028230475
 96627,City Hotel,2016,September,0,0.13
 73866,City Hotel,2015,August,1,1.0
 12165,Resort Hotel,2017,June,1,0.93
@@ -2634,7 +2634,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 42989,City Hotel,2015,September,0,0.0
 60370,City Hotel,2016,November,1,1.0
 110965,City Hotel,2017,May,0,0.44
-45786,City Hotel,2015,November,0,0.02942441629521091
+45786,City Hotel,2015,November,0,0.029424416295210917
 60860,City Hotel,2016,November,0,0.3188069985569985
 118519,City Hotel,2017,August,0,0.38
 113288,City Hotel,2017,June,0,0.01
@@ -2683,7 +2683,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 9727,Resort Hotel,2016,December,1,0.0
 26023,Resort Hotel,2016,July,0,0.57
 23680,Resort Hotel,2016,April,0,0.02
-8334,Resort Hotel,2016,September,1,0.4934518518518518
+8334,Resort Hotel,2016,September,1,0.49345185185185186
 51621,City Hotel,2016,May,1,0.14
 87464,City Hotel,2016,April,0,0.78
 16373,Resort Hotel,2015,October,0,0.01
@@ -2774,12 +2774,12 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 27948,Resort Hotel,2016,September,0,0.17
 59624,City Hotel,2016,October,1,1.0
 80299,City Hotel,2015,December,1,1.0
-31901,Resort Hotel,2017,January,0,0.08333333333333331
+31901,Resort Hotel,2017,January,0,0.08333333333333334
 46025,City Hotel,2015,December,0,0.0
 16256,Resort Hotel,2015,August,0,0.01
 46510,City Hotel,2016,January,0,0.15
 1915,Resort Hotel,2015,September,0,0.02
-54818,City Hotel,2016,July,1,0.6043452380952381
+54818,City Hotel,2016,July,1,0.604345238095238
 75329,City Hotel,2015,August,1,1.0
 76258,City Hotel,2015,July,1,1.0
 25083,Resort Hotel,2016,June,0,0.13666666666666666
@@ -2812,7 +2812,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 9607,Resort Hotel,2016,December,1,0.75
 101466,City Hotel,2016,November,0,0.01
 59418,City Hotel,2016,October,1,1.0
-52011,City Hotel,2016,May,0,0.17333333333333337
+52011,City Hotel,2016,May,0,0.1733333333333333
 112393,City Hotel,2017,May,0,0.58
 13204,Resort Hotel,2017,August,1,0.55
 19004,Resort Hotel,2015,December,0,0.03
@@ -2896,7 +2896,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 48612,City Hotel,2016,March,1,1.0
 26305,Resort Hotel,2016,July,0,0.3
 94929,City Hotel,2016,August,0,0.03
-72162,City Hotel,2017,July,1,0.7633333333333334
+72162,City Hotel,2017,July,1,0.7633333333333333
 31179,Resort Hotel,2016,December,0,0.0
 42348,City Hotel,2015,September,1,1.0
 66293,City Hotel,2017,April,1,1.0
@@ -2921,7 +2921,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 45332,City Hotel,2015,October,1,0.95
 87962,City Hotel,2016,April,0,0.3933910256410256
 71690,City Hotel,2017,July,1,0.66
-100516,City Hotel,2016,October,0,0.11222222222222224
+100516,City Hotel,2016,October,0,0.11222222222222221
 15321,Resort Hotel,2015,October,1,1.0
 111998,City Hotel,2017,May,0,0.16
 15522,Resort Hotel,2015,July,0,0.0
@@ -2968,7 +2968,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 17096,Resort Hotel,2015,September,0,0.0
 14429,Resort Hotel,2016,January,0,0.02
 117655,City Hotel,2017,August,0,0.56
-42681,City Hotel,2015,September,0,0.06789395937117458
+42681,City Hotel,2015,September,0,0.06789395937117457
 46128,City Hotel,2015,December,0,0.0
 31050,Resort Hotel,2016,December,0,0.13
 112061,City Hotel,2017,May,0,0.0
@@ -3142,7 +3142,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 76900,City Hotel,2015,August,0,0.37
 109740,City Hotel,2017,April,0,0.27
 48533,City Hotel,2016,March,1,1.0
-73133,City Hotel,2017,August,1,0.7133333333333334
+73133,City Hotel,2017,August,1,0.7133333333333333
 73687,City Hotel,2017,August,1,0.82
 44945,City Hotel,2015,October,1,1.0
 72650,City Hotel,2017,August,1,0.42
@@ -3313,7 +3313,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 98162,City Hotel,2016,September,0,0.69
 93180,City Hotel,2016,July,0,0.0
 68569,City Hotel,2017,May,1,1.0
-18442,Resort Hotel,2017,June,0,0.3558333333333333
+18442,Resort Hotel,2017,June,0,0.35583333333333345
 22158,Resort Hotel,2016,March,0,0.5935
 35582,Resort Hotel,2017,April,0,0.01
 86555,City Hotel,2016,April,0,0.0
@@ -3329,7 +3329,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 67608,City Hotel,2017,May,1,0.66
 78642,City Hotel,2015,October,1,0.9
 29480,Resort Hotel,2016,October,0,0.34
-10859,Resort Hotel,2017,April,1,0.5545082972582973
+10859,Resort Hotel,2017,April,1,0.5545082972582972
 55549,City Hotel,2016,August,1,0.21
 107563,City Hotel,2017,March,0,0.7704571428571428
 51774,City Hotel,2016,May,0,0.5660000000000001
@@ -3340,7 +3340,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 16938,Resort Hotel,2017,April,0,0.11
 78867,City Hotel,2015,October,0,0.01
 3735,Resort Hotel,2015,December,0,0.0
-45755,City Hotel,2015,November,1,0.47422902097902087
+45755,City Hotel,2015,November,1,0.47422902097902075
 61035,City Hotel,2016,November,1,0.4
 51633,City Hotel,2016,May,1,0.99
 75843,City Hotel,2015,September,1,1.0
@@ -3374,7 +3374,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 35289,Resort Hotel,2017,April,0,0.1
 65968,City Hotel,2017,April,1,0.26
 43855,City Hotel,2015,September,1,1.0
-34227,Resort Hotel,2017,March,0,0.45483333333333326
+34227,Resort Hotel,2017,March,0,0.4548333333333334
 98488,City Hotel,2016,September,0,0.2346153846153846
 50641,City Hotel,2016,May,1,1.0
 73634,City Hotel,2017,August,1,0.44
@@ -3397,7 +3397,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 28054,Resort Hotel,2016,September,0,0.01
 25709,Resort Hotel,2016,September,1,0.515
 107346,City Hotel,2017,March,0,0.2714285714285714
-61807,City Hotel,2016,December,1,0.9063636363636363
+61807,City Hotel,2016,December,1,0.9063636363636364
 92659,City Hotel,2016,July,0,0.05
 71845,City Hotel,2017,July,1,0.46
 33639,Resort Hotel,2017,February,0,0.105
@@ -3405,7 +3405,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 34588,Resort Hotel,2017,March,0,0.0
 36571,Resort Hotel,2017,May,0,0.07
 52196,City Hotel,2016,June,1,0.98
-43319,City Hotel,2015,September,0,0.3016133755305581
+43319,City Hotel,2015,September,0,0.30161337553055806
 69176,City Hotel,2017,May,1,0.78
 91669,City Hotel,2016,June,0,0.01
 35091,Resort Hotel,2017,April,0,0.12
@@ -3441,7 +3441,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 44731,City Hotel,2015,October,1,1.0
 92041,City Hotel,2016,June,0,0.07
 84693,City Hotel,2016,February,0,0.0
-10164,Resort Hotel,2017,February,1,0.8730000000000001
+10164,Resort Hotel,2017,February,1,0.873
 77139,City Hotel,2015,September,0,0.01
 100621,City Hotel,2016,October,0,0.9
 8099,Resort Hotel,2016,September,1,0.39
@@ -3451,7 +3451,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 96538,City Hotel,2016,August,0,0.15
 49643,City Hotel,2016,April,1,0.43
 92534,City Hotel,2016,July,0,0.19
-43320,City Hotel,2015,September,0,0.3016133755305581
+43320,City Hotel,2015,September,0,0.30161337553055806
 75934,City Hotel,2015,August,1,1.0
 67413,City Hotel,2017,May,1,1.0
 53787,City Hotel,2016,June,1,1.0
@@ -3474,11 +3474,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 112236,City Hotel,2017,May,0,0.09
 55606,City Hotel,2016,August,1,0.79
 58821,City Hotel,2016,October,1,1.0
-41103,City Hotel,2015,August,0,0.059471607637612466
+41103,City Hotel,2015,August,0,0.05947160763761247
 3900,Resort Hotel,2016,February,1,0.6359847665166062
 42927,City Hotel,2015,September,0,0.20900000000000002
 92251,City Hotel,2016,June,0,0.44
-1011,Resort Hotel,2015,August,1,0.42166666666666663
+1011,Resort Hotel,2015,August,1,0.4216666666666667
 80000,City Hotel,2015,November,1,1.0
 26084,Resort Hotel,2016,July,0,0.25
 50209,City Hotel,2016,April,1,0.68
@@ -3497,7 +3497,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 19074,Resort Hotel,2015,December,0,0.0
 72557,City Hotel,2017,July,1,0.27
 22756,Resort Hotel,2016,April,0,0.04
-45825,City Hotel,2015,November,0,0.02942441629521091
+45825,City Hotel,2015,November,0,0.029424416295210917
 98859,City Hotel,2016,October,0,0.08
 20254,Resort Hotel,2016,January,0,0.0
 44341,City Hotel,2015,October,0,0.0
@@ -3598,7 +3598,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 66354,City Hotel,2017,April,1,0.33
 64148,City Hotel,2017,March,1,1.0
 78958,City Hotel,2016,March,0,0.0
-41988,City Hotel,2015,August,0,0.15512777444197215
+41988,City Hotel,2015,August,0,0.15512777444197212
 7489,Resort Hotel,2016,August,1,0.61
 96567,City Hotel,2016,September,0,0.63
 107877,City Hotel,2017,March,0,0.71
@@ -3711,7 +3711,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 52612,City Hotel,2016,June,1,0.07
 103264,City Hotel,2016,December,0,0.04
 49280,City Hotel,2016,April,1,0.375
-66418,City Hotel,2017,April,1,0.3233333333333333
+66418,City Hotel,2017,April,1,0.32333333333333336
 113703,City Hotel,2017,June,0,0.54
 51044,City Hotel,2016,May,0,0.0
 75362,City Hotel,2015,August,1,1.0
@@ -3747,7 +3747,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 9472,Resort Hotel,2016,December,1,1.0
 29012,Resort Hotel,2016,October,0,0.5217142857142858
 101630,City Hotel,2016,November,0,0.02
-80834,City Hotel,2015,November,0,0.44308227591122334
+80834,City Hotel,2015,November,0,0.44308227591122323
 73386,City Hotel,2017,August,1,0.36
 44561,City Hotel,2015,October,1,0.363890756302521
 51850,City Hotel,2016,May,0,0.0
@@ -3779,7 +3779,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 76928,City Hotel,2015,September,1,1.0
 108168,City Hotel,2017,August,0,0.34
 89735,City Hotel,2016,May,0,0.02
-27557,Resort Hotel,2016,August,0,0.15666666666666668
+27557,Resort Hotel,2016,August,0,0.15666666666666665
 28049,Resort Hotel,2016,September,0,0.05
 34855,Resort Hotel,2017,March,0,0.12025000000000001
 86206,City Hotel,2016,March,0,0.06
@@ -3802,7 +3802,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 72518,City Hotel,2017,July,1,0.77
 110098,City Hotel,2017,April,0,0.04
 33498,Resort Hotel,2017,February,0,0.0
-50534,City Hotel,2016,May,1,0.41214466089466073
+50534,City Hotel,2016,May,1,0.4121446608946608
 61333,City Hotel,2016,December,1,1.0
 8223,Resort Hotel,2016,September,0,0.0
 67931,City Hotel,2017,May,1,0.58
@@ -3810,7 +3810,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 83348,City Hotel,2016,January,0,0.08
 88159,City Hotel,2016,April,0,0.69
 67706,City Hotel,2017,May,1,1.0
-32195,Resort Hotel,2017,January,0,0.1576451543839672
+32195,Resort Hotel,2017,January,0,0.15764515438396717
 114991,City Hotel,2017,June,0,0.06
 65188,City Hotel,2017,March,1,0.48
 87924,City Hotel,2016,April,0,0.11
@@ -4023,7 +4023,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 69733,City Hotel,2017,June,1,0.11
 10232,Resort Hotel,2017,February,1,1.0
 102314,City Hotel,2016,November,0,0.0
-45804,City Hotel,2015,November,0,0.02942441629521091
+45804,City Hotel,2015,November,0,0.029424416295210917
 38295,Resort Hotel,2017,July,0,0.06
 49051,City Hotel,2016,April,1,0.7203333333333333
 11183,Resort Hotel,2017,April,1,0.96
@@ -4081,7 +4081,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 64760,City Hotel,2017,March,1,0.27
 100966,City Hotel,2016,November,0,0.0
 38442,Resort Hotel,2017,July,0,0.32
-58354,City Hotel,2016,October,1,0.15662745587745577
+58354,City Hotel,2016,October,1,0.1566274558774558
 94760,City Hotel,2016,August,0,0.12
 10021,Resort Hotel,2017,February,1,0.71
 3112,Resort Hotel,2015,November,0,0.0
@@ -4331,7 +4331,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 6662,Resort Hotel,2016,June,0,0.0
 84765,City Hotel,2016,March,0,0.01
 25200,Resort Hotel,2016,June,0,0.04
-40563,City Hotel,2015,August,1,0.6843043462815137
+40563,City Hotel,2015,August,1,0.6843043462815136
 83720,City Hotel,2016,February,0,0.27
 44848,City Hotel,2015,October,0,0.03
 12043,Resort Hotel,2017,June,1,0.26
@@ -4398,7 +4398,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 51532,City Hotel,2016,May,1,0.92
 21849,Resort Hotel,2016,March,0,0.39441243571007
 12623,Resort Hotel,2017,July,1,0.59
-65121,City Hotel,2017,March,1,0.7166666666666666
+65121,City Hotel,2017,March,1,0.7166666666666667
 84866,City Hotel,2016,March,0,0.42
 112760,City Hotel,2017,May,0,0.33
 78115,City Hotel,2015,October,0,0.03
@@ -4436,7 +4436,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 96155,City Hotel,2016,August,0,0.43
 112971,City Hotel,2017,May,0,0.12
 42579,City Hotel,2015,September,0,0.17
-107506,City Hotel,2017,March,0,0.4333333333333333
+107506,City Hotel,2017,March,0,0.43333333333333335
 59106,City Hotel,2016,October,1,1.0
 10304,Resort Hotel,2017,February,1,0.42
 87110,City Hotel,2016,April,0,0.21
@@ -4446,11 +4446,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 95220,City Hotel,2016,August,0,0.21
 62089,City Hotel,2017,January,1,0.81
 114391,City Hotel,2017,June,0,0.12
-31301,Resort Hotel,2016,December,0,0.4108333333333333
+31301,Resort Hotel,2016,December,0,0.4108333333333334
 54160,City Hotel,2016,July,1,0.77
 69812,City Hotel,2017,June,1,1.0
 56607,City Hotel,2016,September,1,1.0
-43064,City Hotel,2015,September,1,0.22438095238095232
+43064,City Hotel,2015,September,1,0.22438095238095238
 68270,City Hotel,2017,May,1,1.0
 62172,City Hotel,2017,January,1,0.38
 70259,City Hotel,2017,June,1,1.0
@@ -4465,7 +4465,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 5418,Resort Hotel,2016,April,1,0.19
 111325,City Hotel,2017,May,0,0.21
 17964,Resort Hotel,2015,October,0,0.04
-49582,City Hotel,2016,April,1,0.34480677561665785
+49582,City Hotel,2016,April,1,0.34480677561665796
 69796,City Hotel,2017,June,1,0.37
 57148,City Hotel,2016,September,1,1.0
 112541,City Hotel,2017,May,0,0.04
@@ -4553,7 +4553,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 49549,City Hotel,2016,April,1,0.74
 106602,City Hotel,2017,February,0,0.21
 42426,City Hotel,2015,September,0,0.0
-108377,City Hotel,2017,March,0,0.24583333333333332
+108377,City Hotel,2017,March,0,0.24583333333333335
 103259,City Hotel,2016,December,0,0.03
 8761,Resort Hotel,2016,October,0,0.0
 85070,City Hotel,2016,March,0,0.025
@@ -4579,7 +4579,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 4841,Resort Hotel,2016,April,1,0.03
 44383,City Hotel,2015,October,0,0.028095238095238093
 7809,Resort Hotel,2016,August,1,0.5
-90871,City Hotel,2016,June,0,0.07413608540659881
+90871,City Hotel,2016,June,0,0.0741360854065988
 34827,Resort Hotel,2017,April,0,0.16
 31006,Resort Hotel,2016,December,0,0.75
 64319,City Hotel,2017,March,1,0.45
@@ -4598,7 +4598,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 112498,City Hotel,2017,May,0,0.02
 28586,Resort Hotel,2016,October,0,0.02
 27451,Resort Hotel,2016,August,0,0.28
-2747,Resort Hotel,2015,October,0,0.1035769230769231
+2747,Resort Hotel,2015,October,0,0.10357692307692307
 4412,Resort Hotel,2016,March,1,0.45
 1827,Resort Hotel,2015,September,0,0.0
 64340,City Hotel,2017,March,1,0.5902272727272727
@@ -4616,7 +4616,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 59483,City Hotel,2016,October,1,1.0
 49123,City Hotel,2016,April,1,1.0
 49,Resort Hotel,2015,July,0,0.01
-45812,City Hotel,2015,November,0,0.47422902097902087
+45812,City Hotel,2015,November,0,0.47422902097902075
 92812,City Hotel,2016,July,0,0.0
 69816,City Hotel,2017,June,1,1.0
 102324,City Hotel,2016,November,0,0.03
@@ -4680,7 +4680,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 41813,City Hotel,2015,August,0,0.03
 10670,Resort Hotel,2017,March,1,1.0
 59708,City Hotel,2016,November,1,1.0
-33155,Resort Hotel,2017,February,0,0.43
+33155,Resort Hotel,2017,February,0,0.42999999999999994
 22272,Resort Hotel,2016,November,0,0.19
 15041,Resort Hotel,2015,July,1,0.98
 13224,Resort Hotel,2017,August,1,0.73
@@ -4765,7 +4765,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 79750,City Hotel,2015,November,1,0.51
 106233,City Hotel,2017,February,0,0.02
 68724,City Hotel,2017,May,1,1.0
-32192,Resort Hotel,2017,January,0,0.1576451543839672
+32192,Resort Hotel,2017,January,0,0.15764515438396717
 38768,Resort Hotel,2017,July,0,0.53
 39250,Resort Hotel,2017,August,0,0.06
 45868,City Hotel,2015,November,0,0.0
@@ -5084,8 +5084,8 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 25188,Resort Hotel,2016,June,0,0.02
 71948,City Hotel,2017,July,1,0.72
 805,Resort Hotel,2015,July,1,0.85
-41990,City Hotel,2015,August,0,0.15512777444197215
-92571,City Hotel,2016,July,0,0.2995709094826741
+41990,City Hotel,2015,August,0,0.15512777444197212
+92571,City Hotel,2016,July,0,0.29957090948267406
 94455,City Hotel,2016,August,0,0.05
 74109,City Hotel,2015,September,1,1.0
 111244,City Hotel,2017,May,0,0.08
@@ -5104,7 +5104,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 75313,City Hotel,2015,August,1,1.0
 73489,City Hotel,2017,August,1,0.16
 5271,Resort Hotel,2016,April,0,0.0
-42696,City Hotel,2015,September,0,0.06789395937117458
+42696,City Hotel,2015,September,0,0.06789395937117457
 88470,City Hotel,2016,May,0,0.0
 14825,Resort Hotel,2015,July,1,0.99
 82868,City Hotel,2016,February,1,1.0
@@ -5184,7 +5184,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 97688,City Hotel,2016,September,0,0.0
 108641,City Hotel,2017,March,0,0.0
 78849,City Hotel,2015,October,0,0.0
-9874,Resort Hotel,2017,January,1,0.1576451543839672
+9874,Resort Hotel,2017,January,1,0.15764515438396717
 99818,City Hotel,2016,October,0,0.0
 88796,City Hotel,2016,May,0,0.12
 76522,City Hotel,2015,September,1,1.0
@@ -5198,7 +5198,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 62090,City Hotel,2017,January,1,0.565
 59537,City Hotel,2016,October,1,0.7
 64965,City Hotel,2017,March,1,1.0
-87835,City Hotel,2016,April,0,0.07728229205435087
+87835,City Hotel,2016,April,0,0.07728229205435086
 31497,Resort Hotel,2016,December,0,0.22
 83851,City Hotel,2016,February,0,0.05
 88846,City Hotel,2016,May,0,0.0
@@ -5223,7 +5223,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 63965,City Hotel,2017,February,1,0.65
 62238,City Hotel,2017,January,1,0.88
 76894,City Hotel,2015,September,1,0.99
-44521,City Hotel,2015,October,0,0.01893662628794208
+44521,City Hotel,2015,October,0,0.018936626287942078
 35405,Resort Hotel,2017,April,0,0.05
 54587,City Hotel,2016,July,1,0.35
 60990,City Hotel,2016,November,1,1.0
@@ -5247,7 +5247,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 76434,City Hotel,2015,October,1,1.0
 29657,Resort Hotel,2016,October,0,0.01
 74386,City Hotel,2015,July,1,1.0
-43023,City Hotel,2015,September,1,0.22991671369989436
+43023,City Hotel,2015,September,1,0.22991671369989433
 56388,City Hotel,2016,September,1,0.07
 11746,Resort Hotel,2017,May,1,0.67
 91126,City Hotel,2016,June,0,0.0
@@ -5284,11 +5284,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 80022,City Hotel,2015,November,0,0.052333333333333336
 36616,Resort Hotel,2017,May,0,0.1
 4545,Resort Hotel,2016,March,1,0.62
-70992,City Hotel,2017,June,1,0.8334650349650345
+70992,City Hotel,2017,June,1,0.8334650349650344
 81382,City Hotel,2016,April,0,0.01
 66933,City Hotel,2017,April,1,1.0
 41850,City Hotel,2015,August,0,0.86320627439072
-32213,Resort Hotel,2017,January,0,0.1576451543839672
+32213,Resort Hotel,2017,January,0,0.15764515438396717
 19983,Resort Hotel,2016,January,0,0.01
 110140,City Hotel,2017,April,0,0.0
 59205,City Hotel,2016,October,1,1.0
@@ -5329,7 +5329,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 21902,Resort Hotel,2016,March,0,0.16
 80124,City Hotel,2015,December,1,1.0
 633,Resort Hotel,2015,July,0,0.03
-71770,City Hotel,2017,July,1,0.23104401154401155
+71770,City Hotel,2017,July,1,0.23104401154401152
 118099,City Hotel,2017,August,0,0.335
 28894,Resort Hotel,2016,October,0,0.08
 113898,City Hotel,2017,June,0,0.0
@@ -5429,7 +5429,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 99158,City Hotel,2016,October,0,0.12
 26509,Resort Hotel,2017,April,0,0.0
 26303,Resort Hotel,2016,July,0,0.2
-63944,City Hotel,2017,February,1,0.474905418896072
+63944,City Hotel,2017,February,1,0.4749054188960721
 48906,City Hotel,2016,April,1,0.59
 28488,Resort Hotel,2016,September,0,0.37
 99653,City Hotel,2016,October,0,0.0
@@ -5470,7 +5470,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 27772,Resort Hotel,2016,September,0,0.36
 21634,Resort Hotel,2016,March,0,0.03
 76217,City Hotel,2015,July,1,1.0
-43010,City Hotel,2015,September,0,0.22991671369989436
+43010,City Hotel,2015,September,0,0.22991671369989433
 116177,City Hotel,2017,July,0,0.21
 47532,City Hotel,2016,February,1,0.62
 9918,Resort Hotel,2017,January,1,0.62
@@ -5491,7 +5491,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 24970,Resort Hotel,2016,June,0,0.32
 48698,City Hotel,2016,March,1,0.89
 9680,Resort Hotel,2016,December,1,0.7
-50208,City Hotel,2016,April,1,0.07728229205435087
+50208,City Hotel,2016,April,1,0.07728229205435086
 44239,City Hotel,2015,October,0,0.0943315108414261
 72912,City Hotel,2017,August,1,0.45
 92172,City Hotel,2016,June,0,0.42
@@ -5504,7 +5504,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 77645,City Hotel,2015,September,0,0.01
 23269,Resort Hotel,2016,April,0,0.0
 2897,Resort Hotel,2015,November,0,0.02
-99200,City Hotel,2016,October,0,0.11307692307692306
+99200,City Hotel,2016,October,0,0.11307692307692309
 33508,Resort Hotel,2017,February,0,0.14
 113310,City Hotel,2017,June,0,0.185
 82703,City Hotel,2016,January,0,0.0
@@ -5527,7 +5527,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 82553,City Hotel,2015,December,0,0.05
 76584,City Hotel,2015,July,1,0.98
 42767,City Hotel,2015,September,1,0.47
-44683,City Hotel,2015,October,0,0.7983008604518227
+44683,City Hotel,2015,October,0,0.7983008604518228
 58837,City Hotel,2016,October,1,1.0
 6259,Resort Hotel,2016,May,0,0.04
 39806,Resort Hotel,2017,August,0,0.07
@@ -5679,7 +5679,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 96300,City Hotel,2016,September,0,0.09
 11170,Resort Hotel,2017,April,1,0.49
 613,Resort Hotel,2015,July,1,0.8
-42655,City Hotel,2015,September,0,0.0495297557619539
+42655,City Hotel,2015,September,0,0.049529755761953904
 29348,Resort Hotel,2016,October,0,0.0
 6718,Resort Hotel,2016,June,1,0.84
 64969,City Hotel,2017,March,1,1.0
@@ -5892,7 +5892,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 96264,City Hotel,2016,August,0,0.05
 105861,City Hotel,2017,February,0,0.19
 29671,Resort Hotel,2016,November,0,0.26
-106461,City Hotel,2017,February,0,0.474905418896072
+106461,City Hotel,2017,February,0,0.4749054188960721
 48568,City Hotel,2016,March,1,1.0
 119016,City Hotel,2017,August,0,0.45
 39499,Resort Hotel,2017,August,0,0.05
@@ -5945,11 +5945,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 44502,City Hotel,2015,October,0,0.0
 46147,City Hotel,2015,December,0,0.09
 112524,City Hotel,2017,May,0,0.32
-40557,City Hotel,2015,July,0,0.3383333333333334
+40557,City Hotel,2015,July,0,0.33833333333333326
 103543,City Hotel,2016,December,0,0.23
 26233,Resort Hotel,2016,July,0,0.67
 94126,City Hotel,2016,July,0,0.0
-52075,City Hotel,2016,May,1,0.9322294085642447
+52075,City Hotel,2016,May,1,0.9322294085642449
 3126,Resort Hotel,2015,November,0,0.0
 75551,City Hotel,2015,July,0,0.0
 27674,Resort Hotel,2016,September,0,0.22
@@ -6056,7 +6056,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 86497,City Hotel,2016,April,0,0.01
 61771,City Hotel,2016,December,1,1.0
 117247,City Hotel,2017,July,0,0.5
-40586,City Hotel,2015,August,1,0.6843043462815137
+40586,City Hotel,2015,August,1,0.6843043462815136
 82716,City Hotel,2016,January,0,0.09
 21008,Resort Hotel,2016,February,0,0.05
 99875,City Hotel,2016,October,0,0.0
@@ -6119,7 +6119,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 21587,Resort Hotel,2016,February,0,0.01
 49040,City Hotel,2016,April,1,1.0
 41938,City Hotel,2015,August,1,0.35
-46924,City Hotel,2016,January,1,0.4651428571428572
+46924,City Hotel,2016,January,1,0.46514285714285725
 40322,City Hotel,2015,July,1,1.0
 23307,Resort Hotel,2016,April,0,0.0
 108758,City Hotel,2017,March,0,0.08
@@ -6160,7 +6160,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 115020,City Hotel,2017,June,0,0.01
 17594,Resort Hotel,2015,November,0,0.26
 112991,City Hotel,2017,May,0,0.1
-43570,City Hotel,2015,September,1,0.8566666666666667
+43570,City Hotel,2015,September,1,0.8566666666666666
 29747,Resort Hotel,2016,October,0,0.08
 33432,Resort Hotel,2017,February,0,0.02
 103434,City Hotel,2016,December,0,0.41
@@ -6208,7 +6208,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 51630,City Hotel,2016,May,1,0.99
 34068,Resort Hotel,2017,March,0,0.0
 111525,City Hotel,2017,May,0,0.26
-26114,Resort Hotel,2016,July,0,0.4958333333333333
+26114,Resort Hotel,2016,July,0,0.49583333333333335
 150,Resort Hotel,2015,July,0,0.26
 28824,Resort Hotel,2016,October,0,0.0
 50773,City Hotel,2016,May,1,0.73
@@ -6270,7 +6270,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 39810,Resort Hotel,2017,August,0,0.09
 4018,Resort Hotel,2016,February,1,1.0
 117767,City Hotel,2017,August,0,0.06
-62613,City Hotel,2017,January,1,0.836818405450758
+62613,City Hotel,2017,January,1,0.8368184054507581
 82492,City Hotel,2015,December,0,0.0
 18799,Resort Hotel,2017,February,0,0.06
 25174,Resort Hotel,2016,June,0,0.28
@@ -6308,10 +6308,10 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 80713,City Hotel,2015,November,0,0.0
 48558,City Hotel,2016,March,1,1.0
 13593,Resort Hotel,2017,August,1,0.7
-115094,City Hotel,2017,June,0,0.6433333333333333
+115094,City Hotel,2017,June,0,0.6433333333333334
 59645,City Hotel,2016,October,1,0.13
 99789,City Hotel,2016,October,0,0.26
-44686,City Hotel,2015,October,0,0.2801771390374332
+44686,City Hotel,2015,October,0,0.2801771390374331
 79626,City Hotel,2015,October,0,0.17
 66174,City Hotel,2017,April,1,0.62
 118176,City Hotel,2017,August,0,0.22
@@ -6332,7 +6332,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 98747,City Hotel,2016,October,0,0.05
 31792,Resort Hotel,2017,January,0,0.0
 12000,Resort Hotel,2017,June,1,1.0
-44849,City Hotel,2015,October,0,0.3366666666666667
+44849,City Hotel,2015,October,0,0.33666666666666667
 2851,Resort Hotel,2015,November,0,0.08
 115129,City Hotel,2017,June,0,0.01
 65335,City Hotel,2017,March,1,0.97
@@ -6359,7 +6359,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 103325,City Hotel,2017,May,0,0.03
 18817,Resort Hotel,2015,November,0,0.03
 40984,City Hotel,2015,August,0,0.33
-72286,City Hotel,2017,July,1,0.5158333333333333
+72286,City Hotel,2017,July,1,0.5158333333333334
 24153,Resort Hotel,2016,May,0,0.29
 82417,City Hotel,2015,December,0,0.39
 67509,City Hotel,2017,May,1,1.0
@@ -6371,7 +6371,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 8490,Resort Hotel,2016,October,1,1.0
 79796,City Hotel,2015,November,1,0.94
 44427,City Hotel,2015,October,1,1.0
-106483,City Hotel,2017,February,0,0.474905418896072
+106483,City Hotel,2017,February,0,0.4749054188960721
 2705,Resort Hotel,2015,October,0,0.03
 16429,Resort Hotel,2015,August,0,0.0
 18051,Resort Hotel,2015,October,0,0.0
@@ -6410,7 +6410,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 8677,Resort Hotel,2016,October,1,1.0
 3929,Resort Hotel,2016,February,0,0.01
 37921,Resort Hotel,2017,June,0,0.12
-36648,Resort Hotel,2017,May,0,0.48416666666666663
+36648,Resort Hotel,2017,May,0,0.4841666666666667
 102853,City Hotel,2016,December,0,0.07
 3882,Resort Hotel,2016,February,1,0.28
 6111,Resort Hotel,2016,May,1,0.43
@@ -6460,7 +6460,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 8928,Resort Hotel,2016,October,1,1.0
 81647,City Hotel,2015,December,0,0.01
 28070,Resort Hotel,2016,September,0,0.0
-12571,Resort Hotel,2017,July,1,0.7216666666666666
+12571,Resort Hotel,2017,July,1,0.7216666666666667
 74917,City Hotel,2015,July,1,1.0
 76166,City Hotel,2015,September,1,1.0
 49430,City Hotel,2016,April,1,0.87
@@ -6485,7 +6485,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 72295,City Hotel,2017,July,1,0.66
 40886,City Hotel,2015,August,0,0.0
 1840,Resort Hotel,2015,September,0,0.0
-2746,Resort Hotel,2015,October,0,0.1035769230769231
+2746,Resort Hotel,2015,October,0,0.10357692307692307
 16845,Resort Hotel,2015,September,0,0.0
 37997,Resort Hotel,2017,June,0,0.0
 112658,City Hotel,2017,May,0,0.16
@@ -6536,7 +6536,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 116571,City Hotel,2017,July,0,0.3
 102940,City Hotel,2016,December,0,0.11
 90131,City Hotel,2016,May,0,0.02
-102919,City Hotel,2016,December,0,0.35666666666666663
+102919,City Hotel,2016,December,0,0.3566666666666667
 16269,Resort Hotel,2015,August,0,0.4442857142857143
 58280,City Hotel,2016,October,1,1.0
 99848,City Hotel,2016,October,0,0.4
@@ -6586,9 +6586,9 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 12876,Resort Hotel,2017,July,1,0.69
 111340,City Hotel,2017,May,0,0.01
 79960,City Hotel,2015,November,0,0.03
-115868,City Hotel,2017,July,0,0.4579358974358974
+115868,City Hotel,2017,July,0,0.45793589743589747
 83798,City Hotel,2016,February,0,0.01
-87838,City Hotel,2016,April,0,0.07728229205435087
+87838,City Hotel,2016,April,0,0.07728229205435086
 73756,City Hotel,2015,July,1,1.0
 35959,Resort Hotel,2017,April,0,0.27
 77902,City Hotel,2015,October,0,0.12666666666666665
@@ -6610,7 +6610,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 115955,City Hotel,2017,July,0,0.57
 6457,Resort Hotel,2016,June,1,1.0
 103808,City Hotel,2016,December,0,0.63
-63914,City Hotel,2017,February,1,0.474905418896072
+63914,City Hotel,2017,February,1,0.4749054188960721
 63624,City Hotel,2017,February,1,1.0
 52350,City Hotel,2016,June,1,1.0
 96370,City Hotel,2016,August,0,0.32
@@ -6621,7 +6621,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 1062,Resort Hotel,2015,August,0,0.03
 59997,City Hotel,2016,November,1,1.0
 53375,City Hotel,2016,June,1,1.0
-40589,City Hotel,2015,August,0,0.6843043462815137
+40589,City Hotel,2015,August,0,0.6843043462815136
 27850,Resort Hotel,2016,September,0,0.05
 46733,City Hotel,2016,January,0,0.04
 64794,City Hotel,2017,March,1,0.96
@@ -6754,14 +6754,14 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 104492,City Hotel,2017,January,0,0.28
 64305,City Hotel,2017,March,1,0.21
 99955,City Hotel,2016,October,0,0.34
-116196,City Hotel,2017,July,0,0.31333333333333335
+116196,City Hotel,2017,July,0,0.3133333333333333
 82779,City Hotel,2016,February,1,1.0
 73486,City Hotel,2017,August,1,0.42
 68284,City Hotel,2017,May,1,1.0
 26207,Resort Hotel,2016,July,0,0.52
 98065,City Hotel,2016,September,0,0.0
 54584,City Hotel,2016,July,1,0.68
-43004,City Hotel,2015,September,0,0.22991671369989436
+43004,City Hotel,2015,September,0,0.22991671369989433
 1373,Resort Hotel,2015,August,1,0.44
 77489,City Hotel,2015,September,0,0.06
 17294,Resort Hotel,2015,October,0,0.03
@@ -6817,11 +6817,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 16584,Resort Hotel,2015,September,0,0.09
 69698,City Hotel,2017,June,1,1.0
 50808,City Hotel,2016,May,1,0.02
-45824,City Hotel,2015,November,1,0.47422902097902087
+45824,City Hotel,2015,November,1,0.47422902097902075
 86885,City Hotel,2016,April,0,0.0
 116396,City Hotel,2017,July,0,0.49
 16482,Resort Hotel,2015,August,0,0.02
-41116,City Hotel,2015,August,0,0.059471607637612466
+41116,City Hotel,2015,August,0,0.05947160763761247
 45942,City Hotel,2015,November,0,0.01
 15050,Resort Hotel,2016,July,0,0.06
 90414,City Hotel,2016,June,0,0.08
@@ -6886,9 +6886,9 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 82486,City Hotel,2015,December,0,0.03
 68590,City Hotel,2017,May,1,1.0
 41657,City Hotel,2015,August,0,0.1725
-98094,City Hotel,2016,September,0,0.395
+98094,City Hotel,2016,September,0,0.3949999999999999
 34416,Resort Hotel,2017,March,0,0.1
-63921,City Hotel,2017,February,1,0.474905418896072
+63921,City Hotel,2017,February,1,0.4749054188960721
 23279,Resort Hotel,2016,April,0,0.0
 44967,City Hotel,2015,October,0,0.0
 15021,Resort Hotel,2016,February,0,0.4409761904761906
@@ -6898,7 +6898,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 48126,City Hotel,2016,March,1,1.0
 113851,City Hotel,2017,June,0,0.66
 15805,Resort Hotel,2015,July,0,0.67
-115699,City Hotel,2017,July,0,0.7416666666666667
+115699,City Hotel,2017,July,0,0.7416666666666666
 40743,City Hotel,2015,August,0,0.02
 85584,City Hotel,2016,March,0,0.05
 12627,Resort Hotel,2017,July,1,0.35
@@ -6918,7 +6918,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 20724,Resort Hotel,2016,February,0,0.01
 34610,Resort Hotel,2017,March,0,0.08
 48124,City Hotel,2016,March,1,0.09
-69552,City Hotel,2017,June,1,0.21166666666666667
+69552,City Hotel,2017,June,1,0.21166666666666664
 5635,Resort Hotel,2016,May,1,0.618
 22653,Resort Hotel,2016,March,0,0.17
 73576,City Hotel,2017,August,1,0.86
@@ -6946,11 +6946,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 115920,City Hotel,2017,July,0,0.02
 73071,City Hotel,2017,August,1,0.44
 311,Resort Hotel,2015,July,0,0.14
-106270,City Hotel,2017,February,0,0.07357142857142857
+106270,City Hotel,2017,February,0,0.07357142857142858
 36659,Resort Hotel,2017,May,0,0.04
 88471,City Hotel,2016,May,0,0.23
 83794,City Hotel,2016,February,0,0.0
-42690,City Hotel,2015,September,1,0.06789395937117458
+42690,City Hotel,2015,September,1,0.06789395937117457
 50539,City Hotel,2016,May,1,0.6325
 11220,Resort Hotel,2017,April,1,1.0
 97812,City Hotel,2016,September,0,0.15
@@ -6967,7 +6967,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 85027,City Hotel,2016,March,0,0.08
 8622,Resort Hotel,2016,October,1,1.0
 117386,City Hotel,2017,July,0,0.31
-23619,Resort Hotel,2016,April,0,0.06362246913583566
+23619,Resort Hotel,2016,April,0,0.06362246913583565
 92256,City Hotel,2016,June,0,0.13
 20574,Resort Hotel,2016,February,0,0.06
 30545,Resort Hotel,2016,November,0,0.33
@@ -6999,7 +6999,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 97995,City Hotel,2016,September,0,0.07
 83344,City Hotel,2016,January,0,0.0
 33617,Resort Hotel,2017,February,0,0.01
-98972,City Hotel,2016,October,0,0.11666666666666668
+98972,City Hotel,2016,October,0,0.11666666666666665
 27916,Resort Hotel,2016,September,0,0.31
 58605,City Hotel,2016,October,1,1.0
 32625,Resort Hotel,2017,January,0,0.034
@@ -7009,7 +7009,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 95275,City Hotel,2016,August,0,0.16
 75396,City Hotel,2015,September,1,1.0
 1082,Resort Hotel,2015,August,1,0.76
-6545,Resort Hotel,2016,June,1,0.31050000000000005
+6545,Resort Hotel,2016,June,1,0.3105
 98275,City Hotel,2016,September,0,0.305
 95523,City Hotel,2016,August,0,0.0
 64312,City Hotel,2017,March,1,0.72
@@ -7018,11 +7018,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 54274,City Hotel,2016,July,1,1.0
 53643,City Hotel,2016,June,1,0.52
 29709,Resort Hotel,2016,November,0,0.0
-41086,City Hotel,2015,August,0,0.059471607637612466
+41086,City Hotel,2015,August,0,0.05947160763761247
 92349,City Hotel,2016,July,0,0.02
 77612,City Hotel,2015,September,0,0.0
 19022,Resort Hotel,2015,December,0,0.026086956521739132
-35560,Resort Hotel,2017,April,0,0.7859999999999999
+35560,Resort Hotel,2017,April,0,0.786
 70564,City Hotel,2017,June,1,0.87
 39359,Resort Hotel,2017,August,0,0.0
 685,Resort Hotel,2015,July,1,0.41
@@ -7036,7 +7036,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 45239,City Hotel,2015,October,1,1.0
 54975,City Hotel,2016,August,1,0.83
 97476,City Hotel,2016,September,0,0.04
-32196,Resort Hotel,2017,January,0,0.1576451543839672
+32196,Resort Hotel,2017,January,0,0.15764515438396717
 8067,Resort Hotel,2016,September,1,0.446
 40126,City Hotel,2015,July,1,0.81
 55602,City Hotel,2016,August,1,0.73
@@ -7062,7 +7062,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 82748,City Hotel,2016,October,1,1.0
 86525,City Hotel,2016,April,0,0.2
 11137,Resort Hotel,2017,April,1,0.95
-56311,City Hotel,2016,September,1,0.9646666666666667
+56311,City Hotel,2016,September,1,0.9646666666666666
 108115,City Hotel,2017,March,0,0.09
 47422,City Hotel,2016,February,0,0.5726051161482196
 25138,Resort Hotel,2016,December,0,0.13
@@ -7075,7 +7075,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 114007,City Hotel,2017,June,0,0.07
 77742,City Hotel,2015,September,0,0.02
 106345,City Hotel,2017,February,0,0.08
-45779,City Hotel,2015,November,1,0.47422902097902087
+45779,City Hotel,2015,November,1,0.47422902097902075
 33275,Resort Hotel,2017,February,0,0.195
 100455,City Hotel,2016,October,0,0.01
 104589,City Hotel,2017,January,0,0.17
@@ -7298,7 +7298,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 11695,Resort Hotel,2017,May,1,0.87
 107194,City Hotel,2017,March,0,0.27
 32826,Resort Hotel,2017,January,0,0.15
-112410,City Hotel,2017,May,0,0.15666666666666668
+112410,City Hotel,2017,May,0,0.15666666666666665
 18735,Resort Hotel,2015,November,0,0.07
 44981,City Hotel,2015,October,0,0.0
 49328,City Hotel,2016,April,1,0.93
@@ -7319,7 +7319,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 48094,City Hotel,2016,March,0,0.29
 10253,Resort Hotel,2017,February,1,1.0
 92799,City Hotel,2016,July,0,0.29
-88422,City Hotel,2016,May,0,0.41214466089466073
+88422,City Hotel,2016,May,0,0.4121446608946608
 62658,City Hotel,2017,January,1,1.0
 73678,City Hotel,2017,August,1,0.81
 118728,City Hotel,2017,August,0,0.0
@@ -7404,12 +7404,12 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 86665,City Hotel,2016,April,0,0.02
 36228,Resort Hotel,2017,May,0,0.03
 96889,City Hotel,2016,September,0,0.1
-64026,City Hotel,2017,February,1,0.2323333333333333
+64026,City Hotel,2017,February,1,0.23233333333333334
 54926,City Hotel,2016,July,1,0.82
 80719,City Hotel,2015,November,0,0.08
 54008,City Hotel,2016,July,0,0.54
 15037,Resort Hotel,2015,August,1,0.93
-99799,City Hotel,2016,October,0,0.39083333333333337
+99799,City Hotel,2016,October,0,0.3908333333333333
 34044,Resort Hotel,2017,March,0,0.07
 14928,Resort Hotel,2016,August,0,0.11
 50144,City Hotel,2016,April,1,1.0
@@ -7545,7 +7545,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 14508,Resort Hotel,2016,October,0,0.06
 73148,City Hotel,2017,August,1,0.64
 73065,City Hotel,2017,August,1,0.85
-4228,Resort Hotel,2016,February,0,0.0918226714063698
+4228,Resort Hotel,2016,February,0,0.09182267140636981
 84422,City Hotel,2016,February,0,0.05
 69254,City Hotel,2017,May,1,1.0
 44380,City Hotel,2015,October,0,0.0
@@ -7608,7 +7608,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 61887,City Hotel,2016,December,1,0.56
 19572,Resort Hotel,2015,December,0,0.02
 47488,City Hotel,2016,February,1,1.0
-45787,City Hotel,2015,November,0,0.02942441629521091
+45787,City Hotel,2015,November,0,0.029424416295210917
 31117,Resort Hotel,2016,December,0,0.04
 59697,City Hotel,2016,November,1,1.0
 40974,City Hotel,2015,August,0,0.27
@@ -7624,7 +7624,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 90773,City Hotel,2016,June,0,0.29
 69739,City Hotel,2017,June,1,0.09
 93276,City Hotel,2016,July,0,0.02
-65766,City Hotel,2017,April,1,0.4067645197939316
+65766,City Hotel,2017,April,1,0.40676451979393163
 112400,City Hotel,2017,May,0,0.24
 65279,City Hotel,2017,March,1,1.0
 34495,Resort Hotel,2017,March,0,0.0
@@ -7637,7 +7637,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 92195,City Hotel,2016,July,0,0.02
 6174,Resort Hotel,2016,May,1,1.0
 88561,City Hotel,2016,May,0,0.5178571428571428
-21466,Resort Hotel,2016,February,0,0.10833333333333332
+21466,Resort Hotel,2016,February,0,0.10833333333333334
 39366,Resort Hotel,2017,August,0,0.09
 86468,City Hotel,2016,March,0,0.68
 81295,City Hotel,2015,December,0,0.094
@@ -7654,7 +7654,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 5305,Resort Hotel,2016,April,1,1.0
 26536,Resort Hotel,2016,July,0,0.7
 33248,Resort Hotel,2017,February,0,0.0
-83607,City Hotel,2016,February,0,0.3885555555555556
+83607,City Hotel,2016,February,0,0.38855555555555554
 77319,City Hotel,2015,September,0,0.0
 107137,City Hotel,2017,March,0,0.04
 2761,Resort Hotel,2015,October,0,0.03
@@ -7700,7 +7700,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 102614,City Hotel,2016,December,0,0.6
 48167,City Hotel,2016,March,1,1.0
 82420,City Hotel,2015,December,0,0.02
-4234,Resort Hotel,2016,February,0,0.0918226714063698
+4234,Resort Hotel,2016,February,0,0.09182267140636981
 87922,City Hotel,2016,April,0,0.0
 116296,City Hotel,2017,July,0,0.07
 2433,Resort Hotel,2015,October,0,0.0
@@ -7763,7 +7763,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 41570,City Hotel,2015,August,0,0.02
 67013,City Hotel,2017,April,1,1.0
 32315,Resort Hotel,2017,January,0,0.01
-40425,City Hotel,2015,July,0,0.9495409296357158
+40425,City Hotel,2015,July,0,0.949540929635716
 55480,City Hotel,2016,August,1,0.33
 44234,City Hotel,2015,October,0,0.0943315108414261
 101506,City Hotel,2016,November,0,0.33
@@ -7795,7 +7795,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 22853,Resort Hotel,2016,April,0,0.01
 118473,City Hotel,2017,August,0,0.06
 32377,Resort Hotel,2017,April,0,0.132
-50862,City Hotel,2016,May,1,0.987179487179487
+50862,City Hotel,2016,May,1,0.9871794871794871
 12844,Resort Hotel,2017,July,1,0.33
 21438,Resort Hotel,2016,February,0,0.09
 105924,City Hotel,2017,February,0,0.43
@@ -7863,7 +7863,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 105918,City Hotel,2017,February,0,0.75
 27374,Resort Hotel,2016,August,0,0.16
 17693,Resort Hotel,2015,October,0,0.0
-32210,Resort Hotel,2017,January,0,0.1576451543839672
+32210,Resort Hotel,2017,January,0,0.15764515438396717
 82532,City Hotel,2015,December,0,0.0
 15695,Resort Hotel,2015,July,0,0.07
 95020,City Hotel,2016,August,0,0.14
@@ -7955,7 +7955,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 85998,City Hotel,2016,March,0,0.49
 3786,Resort Hotel,2016,January,0,0.04
 34004,Resort Hotel,2017,March,0,0.04
-50211,City Hotel,2016,April,1,0.3622045177045177
+50211,City Hotel,2016,April,1,0.36220451770451767
 57002,City Hotel,2016,September,1,1.0
 100446,City Hotel,2016,October,0,0.0
 108123,City Hotel,2017,March,0,0.235
@@ -8036,7 +8036,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 44102,City Hotel,2015,September,1,1.0
 46897,City Hotel,2016,January,1,0.99
 106022,City Hotel,2017,February,0,0.04
-33448,Resort Hotel,2017,February,0,0.7859999999999999
+33448,Resort Hotel,2017,February,0,0.7859999999999998
 39804,Resort Hotel,2017,August,0,0.05
 8570,Resort Hotel,2016,October,0,0.0
 80196,City Hotel,2015,November,0,0.02
@@ -8153,7 +8153,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 24396,Resort Hotel,2016,May,0,0.09
 25047,Resort Hotel,2016,June,0,0.0
 1721,Resort Hotel,2015,September,0,0.0
-44509,City Hotel,2015,October,0,0.05933147602823047
+44509,City Hotel,2015,October,0,0.059331476028230475
 17916,Resort Hotel,2016,May,0,0.09916666666666667
 2531,Resort Hotel,2015,October,0,0.16
 91914,City Hotel,2016,June,0,0.02
@@ -8422,7 +8422,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 26268,Resort Hotel,2016,July,0,0.55
 80779,City Hotel,2016,April,1,1.0
 45615,City Hotel,2015,November,1,1.0
-103751,City Hotel,2016,December,0,0.23924603174603176
+103751,City Hotel,2016,December,0,0.23924603174603173
 112643,City Hotel,2017,May,0,0.03
 51737,City Hotel,2016,May,1,1.0
 82574,City Hotel,2015,December,0,0.0
@@ -8446,7 +8446,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 100530,City Hotel,2016,October,0,0.0
 79647,City Hotel,2015,October,0,0.2373095238095238
 106395,City Hotel,2017,February,0,0.0
-104890,City Hotel,2017,January,0,0.2029018759018758
+104890,City Hotel,2017,January,0,0.20290187590187586
 30113,Resort Hotel,2016,November,0,0.35
 83888,City Hotel,2016,February,0,0.05
 84865,City Hotel,2016,March,0,0.07
@@ -8463,7 +8463,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 20245,Resort Hotel,2016,May,0,0.08
 36120,Resort Hotel,2017,May,0,0.06
 101571,City Hotel,2016,November,0,0.346015873015873
-43746,City Hotel,2015,September,0,0.04583333333333333
+43746,City Hotel,2015,September,0,0.04583333333333334
 105330,City Hotel,2017,February,0,0.1
 26177,Resort Hotel,2016,July,0,0.24
 29248,Resort Hotel,2016,October,0,0.01
@@ -8499,11 +8499,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 108260,City Hotel,2017,March,0,0.0
 72482,City Hotel,2017,July,1,1.0
 4407,Resort Hotel,2016,March,1,0.83
-19897,Resort Hotel,2016,January,0,0.34646828463933715
+19897,Resort Hotel,2016,January,0,0.3464682846393372
 35786,Resort Hotel,2017,April,0,0.30244444444444446
 43036,City Hotel,2015,September,1,0.37
 73490,City Hotel,2017,August,1,0.745
-32242,Resort Hotel,2017,January,0,0.1576451543839672
+32242,Resort Hotel,2017,January,0,0.15764515438396717
 57070,City Hotel,2016,September,1,1.0
 7725,Resort Hotel,2016,August,1,0.48
 37095,Resort Hotel,2017,May,0,0.0
@@ -8528,7 +8528,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 58865,City Hotel,2016,October,1,0.28833333333333333
 64953,City Hotel,2017,March,1,1.0
 72876,City Hotel,2017,August,1,0.67
-90851,City Hotel,2016,June,0,0.07413608540659881
+90851,City Hotel,2016,June,0,0.0741360854065988
 77244,City Hotel,2015,September,1,1.0
 26300,Resort Hotel,2016,July,0,0.026666666666666665
 62741,City Hotel,2017,January,1,0.65
@@ -8554,7 +8554,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 44564,City Hotel,2015,October,0,0.0
 41925,City Hotel,2015,August,0,0.0
 97943,City Hotel,2016,September,0,0.01
-44697,City Hotel,2015,October,1,0.7983008604518227
+44697,City Hotel,2015,October,1,0.7983008604518228
 39174,Resort Hotel,2017,August,0,0.01
 115162,City Hotel,2017,June,0,0.05
 72148,City Hotel,2017,July,1,1.0
@@ -8589,7 +8589,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 104136,City Hotel,2017,January,0,0.13
 15058,Resort Hotel,2017,May,0,0.02
 17180,Resort Hotel,2015,September,0,0.04
-43013,City Hotel,2015,September,1,0.22991671369989436
+43013,City Hotel,2015,September,1,0.22991671369989433
 9901,Resort Hotel,2017,January,1,0.1
 79621,City Hotel,2015,October,0,0.0
 117614,City Hotel,2017,July,0,0.07
@@ -8659,7 +8659,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 42048,City Hotel,2015,August,1,1.0
 23409,Resort Hotel,2016,July,0,0.423
 36887,Resort Hotel,2017,May,0,0.78
-106458,City Hotel,2017,February,0,0.474905418896072
+106458,City Hotel,2017,February,0,0.4749054188960721
 37065,Resort Hotel,2017,June,0,0.28
 60112,City Hotel,2016,November,1,1.0
 24917,Resort Hotel,2016,June,0,0.01
@@ -8719,10 +8719,10 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 104753,City Hotel,2017,January,0,0.0
 49311,City Hotel,2016,April,1,0.11416666666666667
 57651,City Hotel,2016,September,1,0.77
-10553,Resort Hotel,2017,March,1,0.7183333333333334
+10553,Resort Hotel,2017,March,1,0.7183333333333333
 49782,City Hotel,2016,April,1,1.0
 63465,City Hotel,2017,February,1,1.0
-92808,City Hotel,2016,July,0,0.449
+92808,City Hotel,2016,July,0,0.44900000000000007
 71000,City Hotel,2017,June,1,0.31
 116705,City Hotel,2017,July,0,0.0
 113510,City Hotel,2017,June,0,0.4
@@ -8740,7 +8740,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 32843,Resort Hotel,2017,February,0,0.04
 105117,City Hotel,2017,January,0,0.27
 22970,Resort Hotel,2016,April,1,0.05
-45810,City Hotel,2015,November,1,0.47422902097902087
+45810,City Hotel,2015,November,1,0.47422902097902075
 86744,City Hotel,2016,April,0,0.07
 109699,City Hotel,2017,April,0,0.17
 28648,Resort Hotel,2016,October,0,0.27
@@ -8761,7 +8761,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 106816,City Hotel,2017,March,0,0.1
 54502,City Hotel,2016,July,1,0.89
 6379,Resort Hotel,2016,June,1,0.39
-111221,City Hotel,2017,May,0,0.06166666666666666
+111221,City Hotel,2017,May,0,0.06166666666666667
 111835,City Hotel,2017,May,0,0.01
 9172,Resort Hotel,2016,October,1,0.8
 117421,City Hotel,2017,July,0,0.02
@@ -8887,7 +8887,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 106596,City Hotel,2017,February,0,0.05
 72093,City Hotel,2017,July,1,0.67
 82601,City Hotel,2015,December,0,0.24
-42719,City Hotel,2015,September,1,0.06789395937117458
+42719,City Hotel,2015,September,1,0.06789395937117457
 72294,City Hotel,2017,July,1,0.42
 86085,City Hotel,2016,March,0,0.05
 71001,City Hotel,2017,June,1,0.52
@@ -8896,7 +8896,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 72593,City Hotel,2017,August,1,1.0
 77426,City Hotel,2015,October,0,0.0
 4099,Resort Hotel,2016,February,1,1.0
-81095,City Hotel,2016,July,0,0.26545238095238094
+81095,City Hotel,2016,July,0,0.265452380952381
 46822,City Hotel,2016,January,0,0.0
 38913,Resort Hotel,2017,August,0,0.49
 62263,City Hotel,2017,January,1,0.87
@@ -8917,7 +8917,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 44621,City Hotel,2015,October,0,0.0
 35008,Resort Hotel,2017,April,0,0.11
 41904,City Hotel,2015,August,0,0.0
-8957,Resort Hotel,2016,October,1,0.19333333333333333
+8957,Resort Hotel,2016,October,1,0.19333333333333336
 10105,Resort Hotel,2017,February,1,0.75
 71558,City Hotel,2017,July,1,0.94
 6866,Resort Hotel,2016,July,1,0.72
@@ -8966,7 +8966,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 21659,Resort Hotel,2016,March,0,0.02
 41078,City Hotel,2015,August,0,0.17
 72390,City Hotel,2017,July,1,0.9
-91369,City Hotel,2016,June,0,0.28365085159938097
+91369,City Hotel,2016,June,0,0.283650851599381
 115956,City Hotel,2017,July,0,0.58
 35544,Resort Hotel,2017,April,0,0.0
 29143,Resort Hotel,2016,October,0,0.0
@@ -9139,7 +9139,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 102070,City Hotel,2016,November,0,0.0
 41350,City Hotel,2015,August,0,0.0
 61642,City Hotel,2016,December,1,0.73
-20469,Resort Hotel,2017,March,0,0.10833333333333334
+20469,Resort Hotel,2017,March,0,0.10833333333333332
 48969,City Hotel,2016,April,1,0.67
 55309,City Hotel,2016,August,1,1.0
 28762,Resort Hotel,2016,October,0,0.0
@@ -9188,7 +9188,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 87401,City Hotel,2016,April,0,0.04
 113078,City Hotel,2017,May,0,0.27
 70251,City Hotel,2017,June,1,0.66
-32228,Resort Hotel,2017,January,0,0.1576451543839672
+32228,Resort Hotel,2017,January,0,0.15764515438396717
 8856,Resort Hotel,2016,October,1,0.96
 31276,Resort Hotel,2016,December,0,0.05
 73201,City Hotel,2017,August,1,0.4933333333333333
@@ -9404,7 +9404,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 108597,City Hotel,2017,March,0,0.08
 12928,Resort Hotel,2017,July,1,0.65
 75904,City Hotel,2015,July,1,1.0
-33446,Resort Hotel,2017,February,0,0.5267857142857142
+33446,Resort Hotel,2017,February,0,0.5267857142857143
 82638,City Hotel,2015,December,0,0.33
 20389,Resort Hotel,2016,January,0,0.01
 82229,City Hotel,2016,June,1,1.0
@@ -9414,10 +9414,10 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 93085,City Hotel,2016,July,0,0.34
 111690,City Hotel,2017,May,0,0.08199999999999999
 54745,City Hotel,2016,July,1,0.62
-117733,City Hotel,2017,August,0,0.1716666666666667
+117733,City Hotel,2017,August,0,0.17166666666666663
 16409,Resort Hotel,2015,September,1,0.98
 59919,City Hotel,2016,November,1,1.0
-90859,City Hotel,2016,June,0,0.07413608540659881
+90859,City Hotel,2016,June,0,0.0741360854065988
 105373,City Hotel,2017,February,0,0.45666666666666667
 34392,Resort Hotel,2017,March,0,0.0
 24490,Resort Hotel,2016,May,0,0.01
@@ -9455,7 +9455,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 11427,Resort Hotel,2017,May,1,0.2
 84868,City Hotel,2016,March,0,0.09
 114409,City Hotel,2017,June,0,0.33
-44698,City Hotel,2015,October,0,0.7983008604518227
+44698,City Hotel,2015,October,0,0.7983008604518228
 26381,Resort Hotel,2016,July,0,0.01
 108405,City Hotel,2017,March,0,0.24
 111496,City Hotel,2017,May,0,0.0
@@ -9468,7 +9468,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 8175,Resort Hotel,2016,September,0,0.01
 81388,City Hotel,2016,December,0,0.32
 67448,City Hotel,2017,May,1,0.6
-22423,Resort Hotel,2016,March,0,0.6366666666666666
+22423,Resort Hotel,2016,March,0,0.6366666666666667
 58082,City Hotel,2016,October,1,1.0
 112951,City Hotel,2017,May,0,0.48
 83535,City Hotel,2016,February,0,0.16
@@ -9476,7 +9476,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 33748,Resort Hotel,2017,February,0,0.33
 48907,City Hotel,2016,April,1,0.89
 118225,City Hotel,2017,August,0,0.43799999999999994
-4347,Resort Hotel,2016,March,1,0.8792101648351647
+4347,Resort Hotel,2016,March,1,0.8792101648351648
 42096,City Hotel,2015,August,0,0.0
 55802,City Hotel,2016,August,1,0.69
 31226,Resort Hotel,2016,December,0,0.1
@@ -9609,7 +9609,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 91638,City Hotel,2016,June,0,0.02
 27508,Resort Hotel,2016,August,0,0.25
 46819,City Hotel,2016,January,0,0.0
-12569,Resort Hotel,2017,July,1,0.7216666666666666
+12569,Resort Hotel,2017,July,1,0.7216666666666667
 81112,City Hotel,2016,February,1,1.0
 72802,City Hotel,2017,August,1,0.36
 76380,City Hotel,2015,July,0,0.0
@@ -9654,7 +9654,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 78658,City Hotel,2015,October,0,0.0
 39426,Resort Hotel,2017,August,0,0.0
 3700,Resort Hotel,2015,December,0,0.0
-110761,City Hotel,2017,April,0,0.5666428571428571
+110761,City Hotel,2017,April,0,0.5666428571428572
 107447,City Hotel,2017,March,0,0.09
 19708,Resort Hotel,2015,December,0,0.01
 42140,City Hotel,2015,September,0,0.55
@@ -9783,7 +9783,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 4246,Resort Hotel,2016,February,1,0.75
 25256,Resort Hotel,2016,June,0,0.1
 48171,City Hotel,2016,March,1,1.0
-32146,Resort Hotel,2017,January,0,0.1576451543839672
+32146,Resort Hotel,2017,January,0,0.15764515438396717
 27807,Resort Hotel,2016,September,0,0.02
 52983,City Hotel,2016,June,1,1.0
 31144,Resort Hotel,2016,December,0,0.02
@@ -9794,7 +9794,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 24870,Resort Hotel,2016,June,0,0.15
 72901,City Hotel,2017,August,1,0.72
 93550,City Hotel,2016,July,0,0.0
-90023,City Hotel,2016,May,0,0.4392380952380953
+90023,City Hotel,2016,May,0,0.43923809523809526
 84196,City Hotel,2016,February,0,0.57
 72807,City Hotel,2017,August,1,0.61
 112178,City Hotel,2017,May,0,0.27
@@ -9848,7 +9848,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 112841,City Hotel,2017,May,0,0.0
 52658,City Hotel,2016,June,1,1.0
 40560,City Hotel,2015,August,0,0.09
-45784,City Hotel,2015,November,1,0.47422902097902087
+45784,City Hotel,2015,November,1,0.47422902097902075
 16946,Resort Hotel,2015,September,0,0.01
 54215,City Hotel,2016,July,1,0.9
 103018,City Hotel,2016,December,0,0.69
@@ -10011,7 +10011,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 20646,Resort Hotel,2016,February,0,0.005
 44653,City Hotel,2015,October,0,0.0
 77727,City Hotel,2015,September,0,0.0
-41748,City Hotel,2015,August,0,0.6721843883240942
+41748,City Hotel,2015,August,0,0.672184388324094
 42577,City Hotel,2015,September,0,0.0
 62032,City Hotel,2016,December,1,0.95
 117544,City Hotel,2017,July,0,0.24
@@ -10054,7 +10054,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 102635,City Hotel,2016,December,0,0.205
 99719,City Hotel,2016,October,0,0.0
 118326,City Hotel,2017,August,0,0.2
-43307,City Hotel,2015,September,0,0.3016133755305581
+43307,City Hotel,2015,September,0,0.30161337553055806
 112510,City Hotel,2017,June,0,0.21600000000000003
 61509,City Hotel,2016,December,1,0.89
 21715,Resort Hotel,2016,March,0,0.3716666666666667
@@ -10083,7 +10083,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 29103,Resort Hotel,2016,October,0,0.0
 35567,Resort Hotel,2017,April,0,0.06
 49433,City Hotel,2016,April,1,0.76
-96471,City Hotel,2016,August,0,0.42583333333333334
+96471,City Hotel,2016,August,0,0.4258333333333333
 35431,Resort Hotel,2017,April,0,0.01
 12095,Resort Hotel,2017,June,1,0.34
 72792,City Hotel,2017,August,1,0.41
@@ -10114,7 +10114,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 30707,Resort Hotel,2016,November,0,0.08
 54026,City Hotel,2016,July,1,0.89
 15156,Resort Hotel,2015,September,1,1.0
-113434,City Hotel,2017,June,0,0.3241666666666667
+113434,City Hotel,2017,June,0,0.32416666666666666
 98134,City Hotel,2016,September,0,0.0
 52494,City Hotel,2016,June,1,1.0
 74205,City Hotel,2015,October,1,1.0
@@ -10176,7 +10176,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 104958,City Hotel,2017,January,0,0.114
 63479,City Hotel,2017,February,1,1.0
 40511,City Hotel,2015,July,1,0.8380747031176594
-36998,Resort Hotel,2017,June,0,0.32916666666666666
+36998,Resort Hotel,2017,June,0,0.3291666666666667
 61596,City Hotel,2016,December,1,0.59
 114035,City Hotel,2017,June,0,0.03
 46723,City Hotel,2016,January,0,0.02
@@ -10213,7 +10213,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 73455,City Hotel,2017,August,1,0.77
 30201,Resort Hotel,2016,November,0,0.0
 111458,City Hotel,2017,May,0,0.19
-10861,Resort Hotel,2017,April,1,0.5545082972582973
+10861,Resort Hotel,2017,April,1,0.5545082972582972
 6501,Resort Hotel,2016,June,1,0.3
 95197,City Hotel,2016,August,0,0.17
 85240,City Hotel,2016,March,0,0.01
@@ -10268,7 +10268,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 25667,Resort Hotel,2016,July,0,0.24
 68921,City Hotel,2017,May,1,1.0
 90923,City Hotel,2016,June,0,0.33
-43331,City Hotel,2015,September,0,0.3016133755305581
+43331,City Hotel,2015,September,0,0.30161337553055806
 24767,Resort Hotel,2016,June,0,0.06
 64415,City Hotel,2017,March,1,1.0
 104717,City Hotel,2017,January,0,0.07
@@ -10286,7 +10286,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 47985,City Hotel,2016,March,1,0.3
 33234,Resort Hotel,2017,January,0,0.28
 63027,City Hotel,2017,January,1,0.35
-90895,City Hotel,2016,June,0,0.07413608540659881
+90895,City Hotel,2016,June,0,0.0741360854065988
 40941,City Hotel,2015,August,0,0.0
 82946,City Hotel,2016,January,0,0.5702380952380952
 14318,Resort Hotel,2016,November,0,0.23
@@ -10346,7 +10346,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 21711,Resort Hotel,2017,March,0,0.01
 38823,Resort Hotel,2017,July,0,0.1
 73871,City Hotel,2015,August,1,1.0
-67100,City Hotel,2017,April,1,0.20977777777777779
+67100,City Hotel,2017,April,1,0.20977777777777773
 105157,City Hotel,2017,January,0,0.26
 86781,City Hotel,2016,April,0,0.01
 101270,City Hotel,2016,November,0,0.06
@@ -10371,7 +10371,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 61353,City Hotel,2016,December,1,0.92
 98400,City Hotel,2016,September,0,0.29
 82645,City Hotel,2015,December,0,0.03
-91853,City Hotel,2016,June,0,0.07524289726030536
+91853,City Hotel,2016,June,0,0.07524289726030538
 113491,City Hotel,2017,June,0,0.0
 40203,City Hotel,2015,July,1,0.665
 16445,Resort Hotel,2015,August,0,0.0
@@ -10402,7 +10402,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 28284,Resort Hotel,2016,September,0,0.0
 60608,City Hotel,2016,November,1,0.7
 25839,Resort Hotel,2016,July,0,0.01
-19677,Resort Hotel,2015,December,0,0.09038492063492062
+19677,Resort Hotel,2015,December,0,0.09038492063492065
 28024,Resort Hotel,2016,September,0,0.0
 35105,Resort Hotel,2017,April,0,0.36
 10387,Resort Hotel,2017,March,0,0.03
@@ -10427,7 +10427,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 20852,Resort Hotel,2016,February,0,0.22
 82597,City Hotel,2015,December,0,0.0
 3128,Resort Hotel,2015,November,0,0.0
-51430,City Hotel,2016,May,1,0.824737012987013
+51430,City Hotel,2016,May,1,0.8247370129870129
 69592,City Hotel,2017,June,1,1.0
 707,Resort Hotel,2015,July,1,0.36
 16821,Resort Hotel,2015,October,1,0.9
@@ -10462,7 +10462,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 83040,City Hotel,2016,January,0,0.18
 12614,Resort Hotel,2017,July,1,0.24
 97805,City Hotel,2016,September,0,0.0
-45821,City Hotel,2015,November,0,0.02942441629521091
+45821,City Hotel,2015,November,0,0.029424416295210917
 59095,City Hotel,2016,October,1,1.0
 90931,City Hotel,2016,June,0,0.07285714285714286
 28314,Resort Hotel,2016,September,0,0.18
@@ -10517,13 +10517,13 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 17607,Resort Hotel,2015,October,0,0.0
 14148,Resort Hotel,2016,July,0,0.24
 39445,Resort Hotel,2017,August,0,0.11
-32529,Resort Hotel,2017,January,0,0.10760317460317459
+32529,Resort Hotel,2017,January,0,0.10760317460317462
 12331,Resort Hotel,2017,June,1,0.69
 61962,City Hotel,2016,December,1,0.96
 51960,City Hotel,2016,May,0,0.06400566455409913
 87385,City Hotel,2016,April,0,0.02
 113138,City Hotel,2017,May,0,0.03
-37321,Resort Hotel,2017,June,0,0.3116666666666667
+37321,Resort Hotel,2017,June,0,0.31166666666666665
 36688,Resort Hotel,2017,May,0,0.0
 24150,Resort Hotel,2016,May,0,0.29
 83709,City Hotel,2016,February,0,0.01
@@ -10646,7 +10646,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 57520,City Hotel,2016,September,1,1.0
 1118,Resort Hotel,2015,August,0,0.05
 10915,Resort Hotel,2017,April,1,0.15
-51358,City Hotel,2016,May,1,0.33195039682539673
+51358,City Hotel,2016,May,1,0.3319503968253968
 53979,City Hotel,2016,July,1,0.47
 59458,City Hotel,2016,October,1,1.0
 20369,Resort Hotel,2016,January,0,0.0
@@ -10735,7 +10735,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 54129,City Hotel,2016,July,1,1.0
 2323,Resort Hotel,2015,October,1,1.0
 105156,City Hotel,2017,January,0,0.41
-42680,City Hotel,2015,September,0,0.06789395937117458
+42680,City Hotel,2015,September,0,0.06789395937117457
 76592,City Hotel,2015,September,1,1.0
 59829,City Hotel,2016,November,1,0.48166666666666663
 71123,City Hotel,2017,June,1,1.0
@@ -10764,7 +10764,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 35951,Resort Hotel,2017,May,0,0.34
 45740,City Hotel,2015,November,0,0.006955713250967302
 45414,City Hotel,2015,October,0,0.0
-3777,Resort Hotel,2016,January,1,0.34646828463933715
+3777,Resort Hotel,2016,January,1,0.3464682846393372
 52327,City Hotel,2016,June,1,0.06333333333333332
 31710,Resort Hotel,2017,January,0,0.01
 102805,City Hotel,2016,December,0,0.0
@@ -10816,7 +10816,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 111027,City Hotel,2017,May,0,0.02
 95228,City Hotel,2016,August,0,0.31
 6409,Resort Hotel,2016,June,1,0.66
-32238,Resort Hotel,2017,January,0,0.1576451543839672
+32238,Resort Hotel,2017,January,0,0.15764515438396717
 115970,City Hotel,2017,July,0,0.09
 17298,Resort Hotel,2015,September,0,0.03
 15149,Resort Hotel,2015,July,1,0.97
@@ -10827,7 +10827,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 109876,City Hotel,2017,April,0,0.0
 68596,City Hotel,2017,May,1,1.0
 66677,City Hotel,2017,April,1,1.0
-40707,City Hotel,2015,August,0,0.0938095238095238
+40707,City Hotel,2015,August,0,0.09380952380952381
 99795,City Hotel,2016,October,0,0.305
 2671,Resort Hotel,2015,October,1,0.84
 93381,City Hotel,2016,July,0,0.08
@@ -10848,7 +10848,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 38777,Resort Hotel,2017,July,0,0.02
 72763,City Hotel,2017,August,1,0.46
 6254,Resort Hotel,2016,May,1,0.14
-110758,City Hotel,2017,April,0,0.5666428571428571
+110758,City Hotel,2017,April,0,0.5666428571428572
 32005,Resort Hotel,2017,January,0,0.0
 2046,Resort Hotel,2015,September,1,0.8475
 48671,City Hotel,2016,March,1,1.0
@@ -10862,16 +10862,16 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 79372,City Hotel,2015,October,0,0.01
 76993,City Hotel,2015,August,0,0.01
 104257,City Hotel,2017,January,0,0.06
-99450,City Hotel,2016,October,0,0.15662745587745577
+99450,City Hotel,2016,October,0,0.1566274558774558
 117272,City Hotel,2017,July,0,0.04
 30397,Resort Hotel,2016,November,0,0.17
-84728,City Hotel,2016,September,0,0.07666666666666667
+84728,City Hotel,2016,September,0,0.07666666666666666
 30816,Resort Hotel,2016,December,0,0.0
 109597,City Hotel,2017,April,0,0.34
 36200,Resort Hotel,2017,May,0,0.1
 100767,City Hotel,2016,October,0,0.1
 2012,Resort Hotel,2015,September,0,0.01
-38492,Resort Hotel,2017,July,0,0.36333333333333334
+38492,Resort Hotel,2017,July,0,0.3633333333333333
 13165,Resort Hotel,2017,August,1,1.0
 75461,City Hotel,2015,September,1,1.0
 10752,Resort Hotel,2017,April,1,0.39
@@ -10954,10 +10954,10 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 94350,City Hotel,2016,August,0,0.09
 113272,City Hotel,2017,June,0,0.0
 47301,City Hotel,2016,February,1,0.15
-45770,City Hotel,2015,November,0,0.02942441629521091
+45770,City Hotel,2015,November,0,0.029424416295210917
 37739,Resort Hotel,2017,June,0,0.22
 16254,Resort Hotel,2015,August,0,0.01
-37727,Resort Hotel,2017,June,0,0.46333333333333326
+37727,Resort Hotel,2017,June,0,0.4633333333333334
 72429,City Hotel,2017,July,1,0.96
 9557,Resort Hotel,2016,December,1,0.31
 65263,City Hotel,2017,March,1,0.65
@@ -10986,7 +10986,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 28430,Resort Hotel,2016,September,0,0.5641666666666666
 33603,Resort Hotel,2017,February,0,0.01
 66901,City Hotel,2017,April,1,1.0
-40461,City Hotel,2015,July,1,0.5342806819199745
+40461,City Hotel,2015,July,1,0.5342806819199746
 9766,Resort Hotel,2016,December,1,0.67
 112074,City Hotel,2017,May,0,0.01
 30056,Resort Hotel,2016,November,0,0.0925
@@ -11003,7 +11003,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 406,Resort Hotel,2015,July,0,0.18
 40225,City Hotel,2015,July,0,0.0
 48058,City Hotel,2016,March,1,0.6
-10853,Resort Hotel,2017,April,1,0.5545082972582973
+10853,Resort Hotel,2017,April,1,0.5545082972582972
 36538,Resort Hotel,2017,May,0,0.0
 84617,City Hotel,2016,February,0,0.54
 86980,City Hotel,2016,April,0,0.15
@@ -11050,7 +11050,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 49948,City Hotel,2016,April,1,1.0
 71008,City Hotel,2017,June,1,0.33
 8644,Resort Hotel,2016,October,1,1.0
-5525,Resort Hotel,2016,May,1,0.6435021645021645
+5525,Resort Hotel,2016,May,1,0.6435021645021644
 27898,Resort Hotel,2016,September,0,0.30833333333333335
 93816,City Hotel,2016,November,0,0.06
 92442,City Hotel,2016,July,0,0.1
@@ -11060,14 +11060,14 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 32357,Resort Hotel,2017,January,0,0.17
 41812,City Hotel,2015,August,0,0.04
 45508,City Hotel,2015,October,0,0.01
-42695,City Hotel,2015,September,0,0.06789395937117458
+42695,City Hotel,2015,September,0,0.06789395937117457
 11769,Resort Hotel,2017,May,1,0.035
 84053,City Hotel,2016,September,0,0.49583333333333335
 26578,Resort Hotel,2016,August,0,0.17
 47623,City Hotel,2016,February,1,1.0
 312,Resort Hotel,2015,July,0,0.0
 72725,City Hotel,2017,August,1,0.64
-41707,City Hotel,2015,August,1,0.6721843883240942
+41707,City Hotel,2015,August,1,0.672184388324094
 38522,Resort Hotel,2017,July,0,0.35
 16560,Resort Hotel,2015,October,1,1.0
 23109,Resort Hotel,2016,April,0,0.0
@@ -11197,7 +11197,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 114468,City Hotel,2017,June,0,0.14
 97215,City Hotel,2016,September,0,0.01
 26582,Resort Hotel,2016,August,0,0.75
-32205,Resort Hotel,2017,January,0,0.1576451543839672
+32205,Resort Hotel,2017,January,0,0.15764515438396717
 81643,City Hotel,2015,December,0,0.125
 12838,Resort Hotel,2017,July,1,0.89
 15651,Resort Hotel,2015,July,0,0.81
@@ -11209,7 +11209,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 115889,City Hotel,2017,July,0,0.67
 20334,Resort Hotel,2016,January,0,0.02
 59363,City Hotel,2016,October,1,0.6
-67927,City Hotel,2017,May,1,0.2759166666666666
+67927,City Hotel,2017,May,1,0.27591666666666664
 48808,City Hotel,2016,March,1,1.0
 71737,City Hotel,2017,July,1,0.59
 29866,Resort Hotel,2016,November,0,0.23
@@ -11287,7 +11287,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 111217,City Hotel,2017,May,0,0.26
 115420,City Hotel,2017,July,0,0.0
 3983,Resort Hotel,2016,February,0,0.03
-77082,City Hotel,2015,September,0,0.1428
+77082,City Hotel,2015,September,0,0.14279999999999998
 110415,City Hotel,2017,April,0,0.0
 13813,Resort Hotel,2016,February,0,0.01
 107300,City Hotel,2017,March,0,0.19
@@ -11360,7 +11360,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 114531,City Hotel,2017,June,0,0.08
 117774,City Hotel,2017,August,0,0.09
 46372,City Hotel,2015,December,1,1.0
-32232,Resort Hotel,2017,January,0,0.1576451543839672
+32232,Resort Hotel,2017,January,0,0.15764515438396717
 71141,City Hotel,2017,June,1,1.0
 30733,Resort Hotel,2016,December,0,0.0
 113598,City Hotel,2017,June,0,0.15
@@ -11523,7 +11523,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 81480,City Hotel,2015,December,0,0.0
 20367,Resort Hotel,2016,January,0,0.08
 113487,City Hotel,2017,June,0,0.16
-58331,City Hotel,2016,October,1,0.9042222222222221
+58331,City Hotel,2016,October,1,0.9042222222222223
 115913,City Hotel,2017,July,0,0.0
 70894,City Hotel,2017,June,1,0.53
 24948,Resort Hotel,2016,June,0,0.06
@@ -11541,7 +11541,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 82365,City Hotel,2016,March,1,1.0
 93949,City Hotel,2016,July,0,0.38
 62457,City Hotel,2017,January,1,1.0
-45767,City Hotel,2015,November,0,0.02942441629521091
+45767,City Hotel,2015,November,0,0.029424416295210917
 12589,Resort Hotel,2017,July,1,0.31
 84067,City Hotel,2016,February,0,0.14
 108644,City Hotel,2017,March,0,0.0
@@ -11590,7 +11590,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 106993,City Hotel,2017,March,0,0.1225
 3551,Resort Hotel,2015,December,0,0.01
 112196,City Hotel,2017,May,0,0.32
-52071,City Hotel,2016,May,1,0.9322294085642447
+52071,City Hotel,2016,May,1,0.9322294085642449
 98352,City Hotel,2016,September,0,0.12
 25861,Resort Hotel,2017,March,0,0.09
 12010,Resort Hotel,2017,June,1,1.0
@@ -11642,7 +11642,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 59554,City Hotel,2016,October,1,0.36
 94802,City Hotel,2016,August,0,0.39
 72783,City Hotel,2017,August,1,0.53
-78516,City Hotel,2015,October,0,0.118
+78516,City Hotel,2015,October,0,0.11800000000000001
 114658,City Hotel,2017,June,0,0.4
 58445,City Hotel,2016,October,1,1.0
 88720,City Hotel,2016,May,0,0.06
@@ -11659,7 +11659,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 89599,City Hotel,2016,May,0,0.92
 48116,City Hotel,2016,March,1,1.0
 9893,Resort Hotel,2017,January,1,0.64
-115513,City Hotel,2017,July,0,0.18513061938061937
+115513,City Hotel,2017,July,0,0.18513061938061934
 110406,City Hotel,2017,April,0,0.0
 111316,City Hotel,2017,May,0,0.0
 81097,City Hotel,2015,December,1,0.99
@@ -11672,7 +11672,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 63744,City Hotel,2017,February,1,1.0
 75126,City Hotel,2015,July,1,1.0
 57898,City Hotel,2016,October,1,0.44
-71333,City Hotel,2017,July,1,0.2866666666666666
+71333,City Hotel,2017,July,1,0.2866666666666667
 51816,City Hotel,2016,May,1,1.0
 31275,Resort Hotel,2016,December,0,0.24
 61774,City Hotel,2016,December,1,0.6
@@ -11953,7 +11953,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 111278,City Hotel,2017,May,0,0.29
 73199,City Hotel,2017,August,1,0.98
 24045,Resort Hotel,2016,May,0,0.0
-52725,City Hotel,2016,June,1,0.4360476190476191
+52725,City Hotel,2016,June,1,0.436047619047619
 50276,City Hotel,2016,April,1,1.0
 87456,City Hotel,2016,April,0,0.11
 98075,City Hotel,2016,September,0,0.0
@@ -11962,7 +11962,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 101412,City Hotel,2016,November,0,0.0
 71823,City Hotel,2017,July,1,1.0
 69579,City Hotel,2017,June,1,0.35
-2219,Resort Hotel,2015,October,1,0.4833333333333333
+2219,Resort Hotel,2015,October,1,0.48333333333333334
 13348,Resort Hotel,2017,August,1,0.6
 50535,City Hotel,2016,May,1,0.39899999999999997
 4266,Resort Hotel,2016,February,1,0.57
@@ -11981,13 +11981,13 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 33983,Resort Hotel,2017,March,0,0.02
 99606,City Hotel,2016,October,0,0.11622641247641244
 5480,Resort Hotel,2016,April,1,0.93
-43015,City Hotel,2015,September,0,0.22991671369989436
+43015,City Hotel,2015,September,0,0.22991671369989433
 72817,City Hotel,2017,August,1,0.27
 8787,Resort Hotel,2016,October,0,0.0
 73363,City Hotel,2017,August,1,0.6
 8129,Resort Hotel,2016,September,1,0.84
 59730,City Hotel,2016,November,1,1.0
-71357,City Hotel,2017,July,1,0.5885
+71357,City Hotel,2017,July,1,0.5884999999999999
 27987,Resort Hotel,2016,September,0,0.04
 73743,City Hotel,2015,July,1,1.0
 94968,City Hotel,2016,August,0,0.0
@@ -12146,12 +12146,12 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 85082,City Hotel,2016,March,0,0.0
 753,Resort Hotel,2015,July,0,0.51
 25647,Resort Hotel,2016,June,0,0.09
-9511,Resort Hotel,2016,December,1,0.23833333333333337
+9511,Resort Hotel,2016,December,1,0.2383333333333333
 113670,City Hotel,2017,June,0,0.37
 49528,City Hotel,2016,April,1,0.46
 50499,City Hotel,2016,May,1,1.0
 7236,Resort Hotel,2016,July,1,0.83
-40411,City Hotel,2015,July,1,0.9495409296357158
+40411,City Hotel,2015,July,1,0.949540929635716
 56231,City Hotel,2016,September,1,0.17
 19348,Resort Hotel,2015,December,1,0.49
 89123,City Hotel,2016,May,0,0.06
@@ -12208,7 +12208,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 23223,Resort Hotel,2016,April,0,0.02
 109005,City Hotel,2017,April,0,0.0
 56929,City Hotel,2016,September,1,0.92
-40587,City Hotel,2015,August,1,0.6843043462815137
+40587,City Hotel,2015,August,1,0.6843043462815136
 104824,City Hotel,2017,January,0,0.23
 639,Resort Hotel,2015,July,0,0.76
 34733,Resort Hotel,2017,March,0,0.45
@@ -12362,7 +12362,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 60250,City Hotel,2016,November,1,1.0
 47207,City Hotel,2016,February,1,0.59
 97599,City Hotel,2016,September,0,0.21
-44694,City Hotel,2015,October,1,0.7983008604518227
+44694,City Hotel,2015,October,1,0.7983008604518228
 72971,City Hotel,2017,August,1,0.71
 89564,City Hotel,2016,May,0,0.2
 56338,City Hotel,2016,September,1,1.0
@@ -12435,7 +12435,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 66977,City Hotel,2017,April,1,0.65
 32568,Resort Hotel,2017,January,0,0.01
 5524,Resort Hotel,2016,May,1,0.65
-87346,City Hotel,2016,April,0,0.05449999999999999
+87346,City Hotel,2016,April,0,0.0545
 113175,City Hotel,2017,June,0,0.52
 110610,City Hotel,2017,April,0,0.71
 55745,City Hotel,2016,August,1,1.0
@@ -12489,7 +12489,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 50068,City Hotel,2016,April,1,1.0
 105803,City Hotel,2017,February,0,0.71
 41181,City Hotel,2015,August,0,0.0
-49581,City Hotel,2016,April,1,0.34480677561665785
+49581,City Hotel,2016,April,1,0.34480677561665796
 84220,City Hotel,2016,February,0,0.02
 99205,City Hotel,2016,October,0,0.015
 94557,City Hotel,2016,August,0,0.12
@@ -12500,7 +12500,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 84977,City Hotel,2016,March,0,0.08
 118121,City Hotel,2017,August,0,0.34
 6924,Resort Hotel,2016,July,1,0.85
-23626,Resort Hotel,2016,April,0,0.06362246913583566
+23626,Resort Hotel,2016,April,0,0.06362246913583565
 5207,Resort Hotel,2016,April,0,0.0
 68076,City Hotel,2017,May,1,0.69
 100808,City Hotel,2016,October,0,0.04
@@ -12673,14 +12673,14 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 107148,City Hotel,2017,March,0,0.09
 38290,Resort Hotel,2017,July,0,0.61
 55365,City Hotel,2016,August,1,1.0
-99441,City Hotel,2016,October,0,0.15662745587745577
+99441,City Hotel,2016,October,0,0.1566274558774558
 19059,Resort Hotel,2015,December,0,0.0
 25895,Resort Hotel,2016,July,0,0.18
 80700,City Hotel,2015,November,0,0.0
 30967,Resort Hotel,2016,December,0,0.16
 84888,City Hotel,2016,March,0,0.26
 117130,City Hotel,2017,July,0,0.17
-91868,City Hotel,2016,June,0,0.07524289726030536
+91868,City Hotel,2016,June,0,0.07524289726030538
 12186,Resort Hotel,2017,June,1,0.67
 23604,Resort Hotel,2016,April,0,0.27
 97761,City Hotel,2016,September,0,0.496
@@ -12722,7 +12722,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 69972,City Hotel,2017,June,1,0.73
 86672,City Hotel,2016,April,0,0.07
 746,Resort Hotel,2015,July,0,0.41
-18057,Resort Hotel,2015,October,0,0.1035769230769231
+18057,Resort Hotel,2015,October,0,0.10357692307692307
 99217,City Hotel,2016,October,0,0.5315238095238094
 45316,City Hotel,2015,October,0,0.0
 104827,City Hotel,2017,January,0,0.32
@@ -12742,11 +12742,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 51492,City Hotel,2016,May,1,1.0
 39439,Resort Hotel,2017,August,0,0.08
 112961,City Hotel,2017,May,0,0.04
-89333,City Hotel,2016,May,0,0.08333333333333334
+89333,City Hotel,2016,May,0,0.08333333333333331
 77149,City Hotel,2015,November,1,0.17
 47394,City Hotel,2016,February,1,0.52
 112315,City Hotel,2017,May,0,0.35
-39306,Resort Hotel,2017,August,0,0.06833333333333332
+39306,Resort Hotel,2017,August,0,0.06833333333333333
 106012,City Hotel,2017,February,0,0.79
 80143,City Hotel,2015,November,0,0.0
 54324,City Hotel,2016,July,1,0.7
@@ -12759,7 +12759,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 90124,City Hotel,2016,May,0,0.28
 7742,Resort Hotel,2016,August,1,0.18
 10727,Resort Hotel,2017,March,1,0.19
-34537,Resort Hotel,2017,March,0,0.023333333333333334
+34537,Resort Hotel,2017,March,0,0.02333333333333333
 113381,City Hotel,2017,June,0,0.2
 28746,Resort Hotel,2016,October,0,0.0
 93339,City Hotel,2016,July,0,0.0
@@ -12898,7 +12898,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 47855,City Hotel,2016,March,1,0.6
 64299,City Hotel,2017,March,1,0.98
 46598,City Hotel,2016,January,0,0.02
-45839,City Hotel,2015,November,1,0.47422902097902087
+45839,City Hotel,2015,November,1,0.47422902097902075
 57171,City Hotel,2016,September,1,1.0
 59755,City Hotel,2016,November,1,1.0
 117760,City Hotel,2017,August,0,0.0
@@ -12972,7 +12972,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 29543,Resort Hotel,2016,October,0,0.39
 71055,City Hotel,2017,June,1,1.0
 87432,City Hotel,2016,April,0,0.05
-49279,City Hotel,2016,April,1,0.4602476689976689
+49279,City Hotel,2016,April,1,0.46024766899766895
 53841,City Hotel,2016,June,1,1.0
 73080,City Hotel,2017,August,1,0.72
 59825,City Hotel,2016,November,1,1.0
@@ -13011,7 +13011,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 83044,City Hotel,2016,January,0,0.0
 42380,City Hotel,2015,September,1,1.0
 106105,City Hotel,2017,February,0,0.31
-90898,City Hotel,2016,June,0,0.07413608540659881
+90898,City Hotel,2016,June,0,0.0741360854065988
 1602,Resort Hotel,2015,September,1,0.615
 34340,Resort Hotel,2017,April,0,0.02
 109792,City Hotel,2017,April,0,0.52
@@ -13043,21 +13043,21 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 63833,City Hotel,2017,February,1,1.0
 88172,City Hotel,2016,April,0,0.57
 6211,Resort Hotel,2016,May,1,0.99
-16062,Resort Hotel,2015,August,0,0.48479365079365083
+16062,Resort Hotel,2015,August,0,0.4847936507936509
 105904,City Hotel,2017,February,0,0.33
 30993,Resort Hotel,2016,December,0,0.02
 12424,Resort Hotel,2017,June,1,0.29
 58085,City Hotel,2016,October,1,1.0
 3397,Resort Hotel,2015,December,1,1.0
 72149,City Hotel,2017,July,1,0.58
-72444,City Hotel,2017,July,1,0.4066666666666666
+72444,City Hotel,2017,July,1,0.40666666666666673
 60641,City Hotel,2016,November,1,0.54
 112229,City Hotel,2017,May,0,0.01
 57156,City Hotel,2016,September,1,0.35
 37913,Resort Hotel,2017,June,0,0.03
 118912,City Hotel,2017,August,0,0.36
 63899,City Hotel,2017,February,1,0.7966666666666667
-45196,City Hotel,2015,October,0,0.3133333333333333
+45196,City Hotel,2015,October,0,0.31333333333333335
 76470,City Hotel,2015,October,1,1.0
 72256,City Hotel,2017,July,1,0.13
 106962,City Hotel,2017,February,0,0.4
@@ -13094,7 +13094,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 3656,Resort Hotel,2015,December,1,0.0
 78386,City Hotel,2015,October,0,0.0
 73667,City Hotel,2017,August,1,0.41
-32207,Resort Hotel,2017,January,0,0.1576451543839672
+32207,Resort Hotel,2017,January,0,0.15764515438396717
 115518,City Hotel,2017,July,0,0.07
 71214,City Hotel,2017,June,1,0.91
 57011,City Hotel,2016,September,1,1.0
@@ -13175,7 +13175,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 5849,Resort Hotel,2016,May,1,1.0
 25615,Resort Hotel,2016,July,0,0.1
 98360,City Hotel,2016,September,0,0.09
-86916,City Hotel,2016,April,0,0.46112556561085966
+86916,City Hotel,2016,April,0,0.4611255656108597
 102101,City Hotel,2016,November,0,0.0
 1808,Resort Hotel,2015,September,0,0.08
 28322,Resort Hotel,2016,September,0,0.11
@@ -13252,7 +13252,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 54674,City Hotel,2016,July,1,0.91
 74687,City Hotel,2015,October,1,1.0
 105229,City Hotel,2017,January,0,0.7
-47579,City Hotel,2016,February,1,0.8933333333333334
+47579,City Hotel,2016,February,1,0.8933333333333333
 95356,City Hotel,2016,August,0,0.4
 68926,City Hotel,2017,May,1,0.49
 42067,City Hotel,2015,August,1,1.0
@@ -13262,7 +13262,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 110,Resort Hotel,2015,July,0,0.0
 69043,City Hotel,2017,May,1,0.67
 51793,City Hotel,2016,May,1,1.0
-62637,City Hotel,2017,January,1,0.827518537018537
+62637,City Hotel,2017,January,1,0.8275185370185367
 71129,City Hotel,2017,June,1,1.0
 31547,Resort Hotel,2016,December,0,0.08
 52550,City Hotel,2016,June,1,0.95
@@ -13334,11 +13334,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 33367,Resort Hotel,2017,February,0,0.01
 23457,Resort Hotel,2016,April,0,0.41
 10169,Resort Hotel,2017,February,1,0.61
-42654,City Hotel,2015,September,0,0.06789395937117458
+42654,City Hotel,2015,September,0,0.06789395937117457
 82708,City Hotel,2016,January,0,0.14
 73480,City Hotel,2017,August,1,0.85
 98838,City Hotel,2016,October,0,0.17
-31600,Resort Hotel,2016,December,0,0.3120411176800495
+31600,Resort Hotel,2016,December,0,0.31204111768004955
 109928,City Hotel,2017,April,0,0.22
 21318,Resort Hotel,2016,March,0,0.0
 66735,City Hotel,2017,April,1,0.78
@@ -13472,7 +13472,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 13947,Resort Hotel,2017,March,0,0.0
 101482,City Hotel,2016,November,0,0.4425
 97425,City Hotel,2016,September,0,0.21
-86161,City Hotel,2016,March,0,0.4233333333333333
+86161,City Hotel,2016,March,0,0.42333333333333334
 81585,City Hotel,2016,June,1,1.0
 108631,City Hotel,2017,March,0,0.09
 84332,City Hotel,2016,February,0,0.051666666666666666
@@ -13547,7 +13547,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 96547,City Hotel,2016,September,0,0.45
 80636,City Hotel,2015,November,0,0.0
 1757,Resort Hotel,2015,September,1,0.7031818181818181
-91867,City Hotel,2016,June,0,0.07524289726030536
+91867,City Hotel,2016,June,0,0.07524289726030538
 41553,City Hotel,2015,August,1,0.99
 8941,Resort Hotel,2016,October,1,0.93
 6731,Resort Hotel,2016,June,0,0.05
@@ -13564,7 +13564,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 44856,City Hotel,2015,October,0,0.0
 14672,Resort Hotel,2016,October,0,0.03
 62306,City Hotel,2017,January,1,1.0
-57932,City Hotel,2016,October,0,0.49349999999999994
+57932,City Hotel,2016,October,0,0.4934999999999999
 89172,City Hotel,2016,May,0,0.02
 96268,City Hotel,2016,August,0,0.03
 45842,City Hotel,2015,November,1,1.0
@@ -13602,7 +13602,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 13721,Resort Hotel,2017,August,1,0.73
 67392,City Hotel,2017,May,1,1.0
 74859,City Hotel,2015,August,1,1.0
-42712,City Hotel,2015,September,0,0.06789395937117458
+42712,City Hotel,2015,September,0,0.06789395937117457
 37535,Resort Hotel,2017,June,0,0.11
 110985,City Hotel,2017,May,0,0.0
 72117,City Hotel,2017,July,1,0.09
@@ -13639,7 +13639,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 32704,Resort Hotel,2017,February,0,0.0
 55,Resort Hotel,2015,July,0,0.02
 26934,Resort Hotel,2016,August,0,0.06
-22114,Resort Hotel,2016,March,0,0.3149444444444443
+22114,Resort Hotel,2016,March,0,0.31494444444444436
 102912,City Hotel,2016,December,0,0.32
 49490,City Hotel,2016,April,1,1.0
 80072,City Hotel,2015,November,0,0.035
@@ -13664,7 +13664,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 11014,Resort Hotel,2017,April,1,0.1
 109142,City Hotel,2017,April,0,0.05
 5044,Resort Hotel,2016,April,1,0.98
-49568,City Hotel,2016,April,0,0.7253333333333333
+49568,City Hotel,2016,April,0,0.7253333333333332
 86704,City Hotel,2016,April,0,0.06
 73621,City Hotel,2017,August,1,0.72
 28253,Resort Hotel,2016,September,0,0.44
@@ -13811,7 +13811,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 39898,Resort Hotel,2017,August,0,0.05
 5036,Resort Hotel,2016,April,1,0.59
 89065,City Hotel,2016,May,0,0.52
-67043,City Hotel,2017,April,1,0.46166666666666667
+67043,City Hotel,2017,April,1,0.4616666666666667
 70528,City Hotel,2017,June,1,0.64
 88349,City Hotel,2016,April,0,0.13
 30576,Resort Hotel,2016,November,0,0.218
@@ -13940,7 +13940,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 112633,City Hotel,2017,May,0,0.62
 76422,City Hotel,2015,October,1,1.0
 87883,City Hotel,2016,April,0,0.08
-111084,City Hotel,2017,May,0,0.17142915417915422
+111084,City Hotel,2017,May,0,0.1714291541791542
 102640,City Hotel,2016,December,0,0.12
 20181,Resort Hotel,2017,March,0,0.18
 24574,Resort Hotel,2016,May,0,0.71
@@ -14007,7 +14007,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 97362,City Hotel,2016,September,0,0.0
 107362,City Hotel,2017,March,0,0.32
 114908,City Hotel,2017,June,0,0.01
-35159,Resort Hotel,2017,April,0,0.5545082972582973
+35159,Resort Hotel,2017,April,0,0.5545082972582972
 93590,City Hotel,2016,July,0,0.0
 80749,City Hotel,2016,April,1,1.0
 79867,City Hotel,2015,December,1,1.0
@@ -14083,7 +14083,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 89273,City Hotel,2016,May,0,0.05
 32460,Resort Hotel,2017,January,0,0.61
 60184,City Hotel,2016,November,1,1.0
-45769,City Hotel,2015,November,0,0.02942441629521091
+45769,City Hotel,2015,November,0,0.029424416295210917
 53384,City Hotel,2016,June,1,0.5233333333333333
 77296,City Hotel,2015,September,0,0.092
 92871,City Hotel,2016,July,0,0.055999999999999994
@@ -14115,7 +14115,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 39115,Resort Hotel,2017,August,0,0.69
 50851,City Hotel,2016,May,0,0.0
 72322,City Hotel,2017,July,1,1.0
-40104,City Hotel,2015,July,0,0.4559953703703703
+40104,City Hotel,2015,July,0,0.45599537037037036
 63508,City Hotel,2017,February,1,0.49
 89589,City Hotel,2016,May,0,0.1
 15759,Resort Hotel,2015,September,1,1.0
@@ -14194,7 +14194,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 12190,Resort Hotel,2017,June,1,0.81
 75543,City Hotel,2015,July,1,1.0
 70951,City Hotel,2017,June,1,0.6933333333333335
-84090,City Hotel,2016,February,0,0.14023917748917744
+84090,City Hotel,2016,February,0,0.14023917748917747
 27965,Resort Hotel,2016,September,0,0.22
 70478,City Hotel,2017,June,1,1.0
 58065,City Hotel,2016,October,1,1.0
@@ -14233,7 +14233,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 109292,City Hotel,2017,April,0,0.02
 73328,City Hotel,2017,August,1,0.24
 73869,City Hotel,2015,August,1,1.0
-105809,City Hotel,2017,February,0,0.067
+105809,City Hotel,2017,February,0,0.06699999999999999
 51694,City Hotel,2016,May,1,0.245
 27274,Resort Hotel,2016,August,0,0.11
 69665,City Hotel,2017,June,1,0.898
@@ -14247,7 +14247,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 113387,City Hotel,2017,June,0,0.115
 13556,Resort Hotel,2017,August,1,0.83
 101877,City Hotel,2016,November,0,0.1
-44684,City Hotel,2015,October,0,0.7983008604518227
+44684,City Hotel,2015,October,0,0.7983008604518228
 83924,City Hotel,2016,February,0,0.38
 7124,Resort Hotel,2016,July,1,0.14
 46305,City Hotel,2015,December,0,0.0
@@ -14292,7 +14292,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 56749,City Hotel,2016,September,1,0.96
 31720,Resort Hotel,2017,January,0,0.3233333333333333
 54659,City Hotel,2016,July,1,0.96
-63931,City Hotel,2017,February,1,0.474905418896072
+63931,City Hotel,2017,February,1,0.4749054188960721
 65488,City Hotel,2017,April,1,1.0
 40194,City Hotel,2015,July,1,0.07
 23529,Resort Hotel,2016,October,0,0.03666666666666667
@@ -14415,7 +14415,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 99558,City Hotel,2016,October,0,0.33
 56367,City Hotel,2016,September,1,0.75
 76419,City Hotel,2015,October,1,1.0
-100599,City Hotel,2016,October,0,0.2058333333333333
+100599,City Hotel,2016,October,0,0.20583333333333337
 46877,City Hotel,2016,January,1,0.72
 75388,City Hotel,2015,September,1,1.0
 92857,City Hotel,2016,July,0,0.08
@@ -14674,7 +14674,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 38647,Resort Hotel,2017,July,0,0.13
 99505,City Hotel,2016,October,0,0.02
 96406,City Hotel,2016,August,0,0.41
-63941,City Hotel,2017,February,1,0.474905418896072
+63941,City Hotel,2017,February,1,0.4749054188960721
 107729,City Hotel,2017,March,0,0.4
 47007,City Hotel,2016,February,1,0.47
 46560,City Hotel,2016,January,1,0.36
@@ -14733,7 +14733,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 97937,City Hotel,2016,September,0,0.27
 61395,City Hotel,2016,December,1,1.0
 55919,City Hotel,2016,August,1,1.0
-59198,City Hotel,2016,October,1,0.3996961722488038
+59198,City Hotel,2016,October,1,0.3996961722488039
 74004,City Hotel,2015,August,1,1.0
 74123,City Hotel,2015,September,1,1.0
 9121,Resort Hotel,2016,October,1,0.498
@@ -14770,7 +14770,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 5037,Resort Hotel,2016,April,1,0.03
 109445,City Hotel,2017,April,0,0.01
 75384,City Hotel,2015,August,1,1.0
-84431,City Hotel,2016,February,0,0.22899999999999998
+84431,City Hotel,2016,February,0,0.229
 31905,Resort Hotel,2017,January,0,0.26
 54392,City Hotel,2016,July,1,0.59
 106377,City Hotel,2017,February,0,0.05
@@ -14795,7 +14795,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 112491,City Hotel,2017,May,0,0.14
 55135,City Hotel,2016,August,1,0.07
 68986,City Hotel,2017,May,1,0.9
-115514,City Hotel,2017,July,0,0.18513061938061937
+115514,City Hotel,2017,July,0,0.18513061938061934
 52447,City Hotel,2016,June,1,1.0
 114290,City Hotel,2017,June,0,0.35
 34947,Resort Hotel,2017,April,0,0.0
@@ -14945,7 +14945,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 31933,Resort Hotel,2017,January,0,0.1335
 23012,Resort Hotel,2016,April,0,0.07833333333333334
 24500,Resort Hotel,2016,May,0,0.01
-57896,City Hotel,2016,October,1,0.21333333333333332
+57896,City Hotel,2016,October,1,0.21333333333333335
 114952,City Hotel,2017,June,0,0.02
 59900,City Hotel,2016,November,1,1.0
 79220,City Hotel,2015,October,0,0.03
@@ -15030,7 +15030,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 60552,City Hotel,2016,November,1,0.31
 26789,Resort Hotel,2016,August,0,0.02
 97833,City Hotel,2016,September,0,0.28
-41701,City Hotel,2015,August,0,0.6721843883240942
+41701,City Hotel,2015,August,0,0.672184388324094
 53438,City Hotel,2016,June,1,1.0
 70038,City Hotel,2017,June,1,0.09
 11539,Resort Hotel,2017,May,1,0.98
@@ -15106,13 +15106,13 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 80060,City Hotel,2016,April,1,1.0
 8054,Resort Hotel,2016,September,1,0.635
 83697,City Hotel,2016,February,0,0.0
-33122,Resort Hotel,2017,February,0,0.31183333333333335
+33122,Resort Hotel,2017,February,0,0.3118333333333333
 60683,City Hotel,2016,November,1,1.0
 78889,City Hotel,2015,October,0,0.0525
 31327,Resort Hotel,2016,December,0,0.2
 25531,Resort Hotel,2016,June,0,0.03
 12023,Resort Hotel,2017,June,1,0.5
-64015,City Hotel,2017,February,1,0.8976696750961451
+64015,City Hotel,2017,February,1,0.8976696750961453
 55931,City Hotel,2016,August,1,0.94
 96009,City Hotel,2016,August,0,0.06
 83212,City Hotel,2016,January,0,0.2513095238095238
@@ -15127,7 +15127,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 9373,Resort Hotel,2016,November,1,0.42
 100329,City Hotel,2016,October,0,0.12
 60299,City Hotel,2016,November,1,1.0
-45172,City Hotel,2015,October,0,0.4527397504456328
+45172,City Hotel,2015,October,0,0.45273975044563286
 37934,Resort Hotel,2017,June,0,0.34
 15027,Resort Hotel,2016,April,0,0.0
 118081,City Hotel,2017,August,0,0.1755897435897436
@@ -15184,7 +15184,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 48290,City Hotel,2016,March,1,1.0
 16110,Resort Hotel,2015,August,0,0.23
 31017,Resort Hotel,2016,December,0,0.26
-36354,Resort Hotel,2017,May,0,0.125
+36354,Resort Hotel,2017,May,0,0.12499999999999999
 118815,City Hotel,2017,August,0,0.51
 76940,City Hotel,2015,September,1,1.0
 89816,City Hotel,2016,May,0,0.3
@@ -15199,7 +15199,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 108908,City Hotel,2017,March,0,0.11
 7833,Resort Hotel,2016,August,1,0.7816666666666667
 46109,City Hotel,2015,December,0,0.0
-40961,City Hotel,2015,August,0,0.4964619087053297
+40961,City Hotel,2015,August,0,0.49646190870532986
 44797,City Hotel,2015,October,1,1.0
 49171,City Hotel,2016,April,1,1.0
 66124,City Hotel,2017,April,1,0.89
@@ -15298,7 +15298,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 38387,Resort Hotel,2017,July,0,0.38
 115276,City Hotel,2017,July,0,0.13
 68169,City Hotel,2017,May,1,0.7376111111111112
-44508,City Hotel,2015,October,0,0.05933147602823047
+44508,City Hotel,2015,October,0,0.059331476028230475
 66518,City Hotel,2017,April,1,1.0
 32800,Resort Hotel,2017,January,0,0.11
 108576,City Hotel,2017,March,0,0.11
@@ -15364,7 +15364,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 108948,City Hotel,2017,March,0,0.43
 5829,Resort Hotel,2016,May,0,0.0
 15098,Resort Hotel,2015,October,1,1.0
-11644,Resort Hotel,2017,May,1,0.21666666666666665
+11644,Resort Hotel,2017,May,1,0.21666666666666667
 101327,City Hotel,2016,November,0,0.17
 94805,City Hotel,2016,August,0,0.28
 14080,Resort Hotel,2017,February,0,0.29
@@ -15401,7 +15401,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 40006,Resort Hotel,2017,August,0,0.02333333333333333
 47949,City Hotel,2016,March,1,0.29
 35569,Resort Hotel,2017,April,0,0.09
-40564,City Hotel,2015,August,1,0.6843043462815137
+40564,City Hotel,2015,August,1,0.6843043462815136
 104679,City Hotel,2017,January,0,0.13
 51780,City Hotel,2016,May,0,0.16
 50287,City Hotel,2016,April,1,1.0
@@ -15512,7 +15512,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 87628,City Hotel,2016,April,0,0.02
 62144,City Hotel,2017,January,1,0.78
 117566,City Hotel,2017,August,0,0.35
-32186,Resort Hotel,2017,January,0,0.1576451543839672
+32186,Resort Hotel,2017,January,0,0.15764515438396717
 92624,City Hotel,2016,July,0,0.1
 118653,City Hotel,2017,August,0,0.13
 50650,City Hotel,2016,May,1,1.0
@@ -15525,7 +15525,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 105613,City Hotel,2017,February,0,0.44
 37945,Resort Hotel,2017,June,0,0.65
 81599,City Hotel,2016,February,0,0.0475
-41099,City Hotel,2015,August,1,0.059471607637612466
+41099,City Hotel,2015,August,1,0.05947160763761247
 22241,Resort Hotel,2016,March,0,0.0
 12631,Resort Hotel,2017,July,1,0.72
 16786,Resort Hotel,2015,September,0,0.0
@@ -15658,7 +15658,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 43895,City Hotel,2015,September,1,1.0
 345,Resort Hotel,2015,July,0,0.01
 79957,City Hotel,2015,November,0,0.02
-40434,City Hotel,2015,July,0,0.9495409296357158
+40434,City Hotel,2015,July,0,0.949540929635716
 6643,Resort Hotel,2016,June,0,0.0
 1294,Resort Hotel,2015,August,0,0.45
 14889,Resort Hotel,2015,September,1,1.0
@@ -15723,7 +15723,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 51217,City Hotel,2016,May,1,1.0
 75582,City Hotel,2015,July,0,0.0
 97877,City Hotel,2016,September,0,0.11
-29536,Resort Hotel,2016,October,0,0.23583333333333337
+29536,Resort Hotel,2016,October,0,0.2358333333333333
 17802,Resort Hotel,2015,October,0,0.051666666666666666
 55315,City Hotel,2016,August,1,1.0
 6479,Resort Hotel,2016,June,1,1.0
@@ -15755,7 +15755,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 56602,City Hotel,2016,September,1,1.0
 41543,City Hotel,2015,August,0,0.0
 91213,City Hotel,2016,June,0,0.05
-106599,City Hotel,2017,February,0,0.505897435897436
+106599,City Hotel,2017,February,0,0.5058974358974359
 30544,Resort Hotel,2016,November,0,0.18
 88731,City Hotel,2016,May,0,0.01
 98453,City Hotel,2016,September,0,0.33
@@ -15791,7 +15791,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 81010,City Hotel,2016,January,1,1.0
 91284,City Hotel,2016,June,0,0.090625
 75346,City Hotel,2015,August,1,1.0
-62614,City Hotel,2017,January,1,0.836818405450758
+62614,City Hotel,2017,January,1,0.8368184054507581
 91740,City Hotel,2016,June,0,0.0
 17890,Resort Hotel,2015,October,0,0.02
 110323,City Hotel,2017,April,0,0.79
@@ -15843,7 +15843,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 23173,Resort Hotel,2016,April,0,0.0
 68778,City Hotel,2017,May,1,1.0
 82414,City Hotel,2017,January,0,0.12
-42494,City Hotel,2015,September,1,0.24543166953019036
+42494,City Hotel,2015,September,1,0.24543166953019033
 62895,City Hotel,2017,January,1,0.5833333333333334
 3604,Resort Hotel,2015,December,1,1.0
 59683,City Hotel,2016,October,1,0.84
@@ -15868,7 +15868,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 71273,City Hotel,2017,June,1,0.88
 26633,Resort Hotel,2016,August,0,0.48
 93274,City Hotel,2016,July,0,0.0
-64011,City Hotel,2017,February,1,0.8976696750961451
+64011,City Hotel,2017,February,1,0.8976696750961453
 11122,Resort Hotel,2017,April,1,0.14
 65676,City Hotel,2017,April,1,1.0
 100342,City Hotel,2016,October,0,0.23
@@ -15960,7 +15960,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 61473,City Hotel,2016,December,1,0.97
 24807,Resort Hotel,2016,May,0,0.07
 65564,City Hotel,2017,April,1,1.0
-43328,City Hotel,2015,September,1,0.3016133755305581
+43328,City Hotel,2015,September,1,0.30161337553055806
 3708,Resort Hotel,2015,December,0,0.23
 100451,City Hotel,2016,October,0,0.03
 108136,City Hotel,2017,March,0,0.01
@@ -16023,7 +16023,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 97892,City Hotel,2016,September,0,0.14
 3821,Resort Hotel,2016,January,0,0.01
 55142,City Hotel,2016,August,1,0.56
-110903,City Hotel,2017,May,0,0.52
+110903,City Hotel,2017,May,0,0.5199999999999999
 103733,City Hotel,2016,December,0,0.07
 45850,City Hotel,2015,November,0,0.0
 59767,City Hotel,2016,November,1,1.0
@@ -16146,7 +16146,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 10479,Resort Hotel,2017,March,1,1.0
 75783,City Hotel,2015,September,1,1.0
 31411,Resort Hotel,2016,December,0,0.01
-87685,City Hotel,2016,July,0,0.17833333333333332
+87685,City Hotel,2016,July,0,0.17833333333333334
 66896,City Hotel,2017,April,1,1.0
 107658,City Hotel,2017,March,0,0.07
 23161,Resort Hotel,2016,April,0,0.02
@@ -16274,7 +16274,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 75357,City Hotel,2015,August,1,1.0
 44793,City Hotel,2015,October,0,0.0
 86240,City Hotel,2016,March,0,0.0
-44674,City Hotel,2015,October,1,0.7983008604518227
+44674,City Hotel,2015,October,1,0.7983008604518228
 3586,Resort Hotel,2015,December,0,0.4904
 109054,City Hotel,2017,April,0,0.09
 34442,Resort Hotel,2017,March,0,0.0
@@ -16299,7 +16299,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 79347,City Hotel,2015,October,0,0.0
 116443,City Hotel,2017,July,0,0.11
 64056,City Hotel,2017,February,1,0.09
-63942,City Hotel,2017,February,1,0.474905418896072
+63942,City Hotel,2017,February,1,0.4749054188960721
 26520,Resort Hotel,2016,July,0,0.363125
 8053,Resort Hotel,2016,September,1,0.34
 30368,Resort Hotel,2016,November,0,0.02
@@ -16317,14 +16317,14 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 76796,City Hotel,2015,August,0,0.0
 33693,Resort Hotel,2017,February,0,0.02
 52042,City Hotel,2016,May,1,1.0
-66558,City Hotel,2017,April,1,0.9176666666666666
+66558,City Hotel,2017,April,1,0.9176666666666669
 58205,City Hotel,2016,October,1,0.58
 34088,Resort Hotel,2017,March,0,0.22
 51611,City Hotel,2016,May,1,0.86
 41155,City Hotel,2015,August,0,0.2
 100148,City Hotel,2016,October,0,0.04
 49493,City Hotel,2016,April,1,1.0
-34386,Resort Hotel,2017,March,0,0.11666666666666665
+34386,Resort Hotel,2017,March,0,0.11666666666666668
 106644,City Hotel,2017,February,0,0.04
 77503,City Hotel,2015,September,0,0.01
 37871,Resort Hotel,2017,June,0,0.35
@@ -16409,7 +16409,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 113403,City Hotel,2017,June,0,0.16
 66663,City Hotel,2017,April,1,1.0
 108362,City Hotel,2017,March,0,0.0
-42262,City Hotel,2015,September,0,0.5078030286288397
+42262,City Hotel,2015,September,0,0.5078030286288395
 101006,City Hotel,2016,November,0,0.285
 68550,City Hotel,2017,May,1,1.0
 28695,Resort Hotel,2016,October,0,0.0
@@ -16558,7 +16558,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 10683,Resort Hotel,2017,March,1,1.0
 29958,Resort Hotel,2016,November,0,0.17
 77528,City Hotel,2015,September,0,0.02
-50848,City Hotel,2016,May,1,0.987179487179487
+50848,City Hotel,2016,May,1,0.9871794871794871
 81268,City Hotel,2015,December,0,0.09
 2610,Resort Hotel,2015,October,0,0.04
 42653,City Hotel,2015,September,0,0.03
@@ -16589,7 +16589,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 13223,Resort Hotel,2017,August,1,0.67
 25520,Resort Hotel,2016,June,0,0.01
 67063,City Hotel,2017,April,1,0.15
-87252,City Hotel,2016,April,0,0.34480677561665785
+87252,City Hotel,2016,April,0,0.34480677561665796
 83528,City Hotel,2016,February,0,0.28
 35609,Resort Hotel,2017,April,0,0.0
 112871,City Hotel,2017,May,0,0.3
@@ -16686,7 +16686,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 18285,Resort Hotel,2015,November,0,0.0
 96851,City Hotel,2016,September,0,0.05
 117866,City Hotel,2017,August,0,0.12
-110869,City Hotel,2017,May,0,0.21223809523809523
+110869,City Hotel,2017,May,0,0.21223809523809525
 7306,Resort Hotel,2016,August,1,0.44
 19095,Resort Hotel,2015,December,0,0.01
 78120,City Hotel,2015,October,1,0.44
@@ -16719,7 +16719,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 79958,City Hotel,2015,November,0,0.0
 15273,Resort Hotel,2015,November,0,0.015
 10581,Resort Hotel,2017,March,1,1.0
-42682,City Hotel,2015,September,1,0.06789395937117458
+42682,City Hotel,2015,September,1,0.06789395937117457
 97784,City Hotel,2016,September,0,0.27
 4117,Resort Hotel,2016,February,0,0.1675
 49209,City Hotel,2016,April,1,0.91
@@ -16846,7 +16846,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 14782,Resort Hotel,2015,October,1,1.0
 115901,City Hotel,2017,July,0,0.65
 45182,City Hotel,2015,October,0,0.02
-6843,Resort Hotel,2016,July,1,0.41536091359620786
+6843,Resort Hotel,2016,July,1,0.41536091359620775
 92440,City Hotel,2016,July,0,0.22
 72333,City Hotel,2017,July,1,0.02
 8589,Resort Hotel,2016,October,1,1.0
@@ -16861,7 +16861,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 42129,City Hotel,2015,August,0,0.01
 93794,City Hotel,2016,July,0,0.05
 6303,Resort Hotel,2016,June,1,0.13
-31605,Resort Hotel,2016,December,0,0.3120411176800495
+31605,Resort Hotel,2016,December,0,0.31204111768004955
 27305,Resort Hotel,2016,August,0,0.28
 119021,City Hotel,2017,August,0,0.18
 32746,Resort Hotel,2017,February,0,0.17
@@ -16877,7 +16877,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 74113,City Hotel,2015,September,1,1.0
 63693,City Hotel,2017,February,1,1.0
 26360,Resort Hotel,2016,July,0,0.3485714285714286
-42663,City Hotel,2015,September,0,0.06789395937117458
+42663,City Hotel,2015,September,0,0.06789395937117457
 35608,Resort Hotel,2017,April,0,0.0
 112010,City Hotel,2017,May,0,0.12
 30202,Resort Hotel,2016,November,0,0.33
@@ -17029,7 +17029,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 86030,City Hotel,2016,March,0,0.09
 46084,City Hotel,2015,December,1,1.0
 36632,Resort Hotel,2017,May,0,0.77
-32156,Resort Hotel,2017,January,0,0.1576451543839672
+32156,Resort Hotel,2017,January,0,0.15764515438396717
 97334,City Hotel,2016,September,0,0.0
 61760,City Hotel,2016,December,1,0.46
 10448,Resort Hotel,2017,March,1,0.98
@@ -17062,7 +17062,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 53296,City Hotel,2016,June,1,1.0
 18290,Resort Hotel,2015,November,0,0.01
 10805,Resort Hotel,2017,April,1,0.69
-63929,City Hotel,2017,February,1,0.474905418896072
+63929,City Hotel,2017,February,1,0.4749054188960721
 87879,City Hotel,2016,April,0,0.72
 85127,City Hotel,2016,March,0,0.27
 76617,City Hotel,2015,July,0,0.0
@@ -17227,7 +17227,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 7315,Resort Hotel,2016,August,1,0.44
 51696,City Hotel,2016,May,1,1.0
 42104,City Hotel,2015,August,0,0.0
-62663,City Hotel,2017,January,1,0.827518537018537
+62663,City Hotel,2017,January,1,0.8275185370185367
 7241,Resort Hotel,2016,July,1,0.48
 20248,Resort Hotel,2016,January,0,0.01
 69515,City Hotel,2017,June,1,1.0
@@ -17248,7 +17248,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 13314,Resort Hotel,2017,August,1,0.3
 69218,City Hotel,2017,May,1,0.78
 586,Resort Hotel,2015,July,0,0.35
-14011,Resort Hotel,2016,March,0,0.08666666666666666
+14011,Resort Hotel,2016,March,0,0.08666666666666668
 15825,Resort Hotel,2015,July,0,0.02
 114841,City Hotel,2017,June,0,0.3
 44319,City Hotel,2015,October,1,1.0
@@ -17283,7 +17283,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 60104,City Hotel,2016,November,1,1.0
 20087,Resort Hotel,2016,February,0,0.02
 74110,City Hotel,2015,September,1,1.0
-41808,City Hotel,2015,August,0,0.18709890109890107
+41808,City Hotel,2015,August,0,0.18709890109890112
 69967,City Hotel,2017,June,1,1.0
 46721,City Hotel,2016,January,0,0.02
 95808,City Hotel,2016,August,0,0.12
@@ -17296,7 +17296,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 46615,City Hotel,2016,January,1,0.15
 79661,City Hotel,2015,October,0,0.02
 37654,Resort Hotel,2017,June,0,0.25
-36811,Resort Hotel,2017,May,0,0.5326666666666666
+36811,Resort Hotel,2017,May,0,0.5326666666666667
 117806,City Hotel,2017,August,0,0.13
 102724,City Hotel,2016,December,0,0.19446975246975243
 113308,City Hotel,2017,June,0,0.31
@@ -17339,7 +17339,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 24915,Resort Hotel,2016,October,0,0.05
 73577,City Hotel,2017,August,1,0.22
 102389,City Hotel,2016,November,0,0.54
-90008,City Hotel,2016,May,0,0.14680701754385964
+90008,City Hotel,2016,May,0,0.14680701754385966
 53284,City Hotel,2016,June,1,1.0
 110740,City Hotel,2017,April,0,0.04
 35762,Resort Hotel,2017,April,0,0.29
@@ -17360,7 +17360,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 88446,City Hotel,2016,May,0,0.12
 99757,City Hotel,2016,October,0,0.0
 98067,City Hotel,2016,September,0,0.0
-50997,City Hotel,2016,May,1,0.4927307692307692
+50997,City Hotel,2016,May,1,0.4927307692307693
 14342,Resort Hotel,2016,February,0,0.01
 83349,City Hotel,2016,January,0,0.1
 85422,City Hotel,2016,March,0,0.27
@@ -17409,7 +17409,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 32533,Resort Hotel,2017,January,0,0.1
 113984,City Hotel,2017,June,0,0.47
 45582,City Hotel,2015,November,1,1.0
-109362,City Hotel,2017,April,0,0.4067645197939316
+109362,City Hotel,2017,April,0,0.40676451979393163
 70829,City Hotel,2017,June,1,1.0
 31620,Resort Hotel,2016,December,0,0.15
 108565,City Hotel,2017,March,0,0.0
@@ -17497,7 +17497,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 98326,City Hotel,2016,September,0,0.33
 63390,City Hotel,2017,February,1,0.71
 57781,City Hotel,2016,September,1,1.0
-45820,City Hotel,2015,November,0,0.02942441629521091
+45820,City Hotel,2015,November,0,0.029424416295210917
 87988,City Hotel,2016,April,0,0.09
 393,Resort Hotel,2015,July,0,0.5283333333333333
 2843,Resort Hotel,2015,November,0,0.02
@@ -17509,7 +17509,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 65725,City Hotel,2017,April,1,0.77
 116756,City Hotel,2017,July,0,0.0
 100524,City Hotel,2016,October,0,0.03
-77083,City Hotel,2015,September,0,0.1428
+77083,City Hotel,2015,September,0,0.14279999999999998
 118044,City Hotel,2017,August,0,0.13
 55572,City Hotel,2016,August,1,0.79
 108711,City Hotel,2017,March,0,0.11
@@ -17613,9 +17613,9 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 47814,City Hotel,2016,March,0,0.1
 96360,City Hotel,2016,August,0,0.56
 116058,City Hotel,2017,July,0,0.0
-44699,City Hotel,2015,October,0,0.7983008604518227
+44699,City Hotel,2015,October,0,0.7983008604518228
 52731,City Hotel,2016,June,1,0.61
-41118,City Hotel,2015,August,1,0.059471607637612466
+41118,City Hotel,2015,August,1,0.05947160763761247
 36361,Resort Hotel,2017,May,0,0.03
 50841,City Hotel,2016,May,1,0.04
 25151,Resort Hotel,2016,June,0,0.15
@@ -17653,7 +17653,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 90215,City Hotel,2017,January,0,0.04
 66737,City Hotel,2017,April,1,0.41
 54075,City Hotel,2016,July,1,1.0
-91653,City Hotel,2016,June,0,0.43449999999999994
+91653,City Hotel,2016,June,0,0.43450000000000005
 49469,City Hotel,2016,April,1,0.8933333333333333
 87757,City Hotel,2016,April,0,0.03
 29227,Resort Hotel,2016,October,0,0.0
@@ -17685,7 +17685,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 33629,Resort Hotel,2017,February,0,0.01
 110157,City Hotel,2017,April,0,0.0
 22013,Resort Hotel,2016,March,0,0.02
-67916,City Hotel,2017,May,1,0.2759166666666666
+67916,City Hotel,2017,May,1,0.27591666666666664
 34844,Resort Hotel,2017,April,0,0.59
 58530,City Hotel,2016,October,1,1.0
 24950,Resort Hotel,2016,June,0,0.07
@@ -17732,7 +17732,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 36181,Resort Hotel,2017,May,0,0.07
 118575,City Hotel,2017,August,0,0.5
 4126,Resort Hotel,2016,February,0,0.05
-5717,Resort Hotel,2016,May,1,0.5481728551294207
+5717,Resort Hotel,2016,May,1,0.5481728551294206
 58209,City Hotel,2016,October,1,0.84
 22486,Resort Hotel,2016,March,0,0.0
 13184,Resort Hotel,2017,August,1,0.93
@@ -17824,7 +17824,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 20707,Resort Hotel,2016,February,0,0.0
 116461,City Hotel,2017,July,0,0.08
 45245,City Hotel,2015,October,1,1.0
-42094,City Hotel,2015,August,1,0.9633333333333334
+42094,City Hotel,2015,August,1,0.9633333333333333
 40677,City Hotel,2015,August,1,1.0
 28857,Resort Hotel,2016,October,0,0.02
 4469,Resort Hotel,2016,March,1,0.98
@@ -17868,7 +17868,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 9237,Resort Hotel,2016,November,1,0.6
 31216,Resort Hotel,2016,December,0,0.01
 22516,Resort Hotel,2016,March,0,0.0
-5375,Resort Hotel,2016,April,1,0.06362246913583566
+5375,Resort Hotel,2016,April,1,0.06362246913583565
 23545,Resort Hotel,2016,April,0,0.4144
 104919,City Hotel,2017,January,0,0.0
 28841,Resort Hotel,2016,October,0,0.01
@@ -17892,7 +17892,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 9165,Resort Hotel,2016,October,1,0.07333333333333333
 22249,Resort Hotel,2016,March,0,0.0
 49586,City Hotel,2016,April,0,0.12
-32175,Resort Hotel,2017,January,0,0.1576451543839672
+32175,Resort Hotel,2017,January,0,0.15764515438396717
 9605,Resort Hotel,2016,December,1,0.5082310744810745
 38662,Resort Hotel,2017,July,0,0.73
 14368,Resort Hotel,2016,July,1,0.65
@@ -17917,7 +17917,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 102493,City Hotel,2017,March,0,0.03
 40610,City Hotel,2015,August,0,0.0
 54232,City Hotel,2016,July,1,0.8
-4930,Resort Hotel,2016,April,1,0.7266666666666667
+4930,Resort Hotel,2016,April,1,0.7266666666666666
 32747,Resort Hotel,2017,February,0,0.17
 83591,City Hotel,2016,February,0,0.30583333333333335
 93073,City Hotel,2016,July,0,0.24
@@ -17931,7 +17931,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 2883,Resort Hotel,2015,November,0,0.0
 85965,City Hotel,2016,March,0,0.01
 105486,City Hotel,2017,February,0,0.05
-40582,City Hotel,2015,August,1,0.6843043462815137
+40582,City Hotel,2015,August,1,0.6843043462815136
 35345,Resort Hotel,2017,April,0,0.03
 109986,City Hotel,2017,April,0,0.43
 49674,City Hotel,2016,April,1,1.0
@@ -18265,9 +18265,9 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 106651,City Hotel,2017,February,0,0.008
 51623,City Hotel,2016,May,1,0.81
 97413,City Hotel,2016,September,0,0.12
-115525,City Hotel,2017,July,0,0.18513061938061937
+115525,City Hotel,2017,July,0,0.18513061938061934
 60337,City Hotel,2016,November,1,1.0
-43012,City Hotel,2015,September,0,0.22991671369989436
+43012,City Hotel,2015,September,0,0.22991671369989433
 44293,City Hotel,2015,October,1,1.0
 57362,City Hotel,2016,September,1,0.98
 98805,City Hotel,2016,October,0,0.24
@@ -18284,7 +18284,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 73666,City Hotel,2017,August,1,0.49
 44770,City Hotel,2015,October,0,0.02
 80896,City Hotel,2015,November,0,0.0
-108662,City Hotel,2017,March,0,0.4533333333333335
+108662,City Hotel,2017,March,0,0.4533333333333334
 63808,City Hotel,2017,February,1,0.13
 66183,City Hotel,2017,April,1,1.0
 100986,City Hotel,2016,November,0,0.196
@@ -18296,7 +18296,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 16629,Resort Hotel,2015,August,0,0.0
 27559,Resort Hotel,2016,August,0,0.0
 33709,Resort Hotel,2017,June,0,0.14
-110727,City Hotel,2017,April,0,0.6583333333333334
+110727,City Hotel,2017,April,0,0.6583333333333333
 25113,Resort Hotel,2016,June,0,0.02
 61882,City Hotel,2016,December,1,0.32
 104985,City Hotel,2017,January,0,0.04
@@ -18350,7 +18350,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 29280,Resort Hotel,2016,October,0,0.17
 65747,City Hotel,2017,April,1,0.63
 110363,City Hotel,2017,April,0,0.01
-23625,Resort Hotel,2016,April,0,0.06362246913583566
+23625,Resort Hotel,2016,April,0,0.06362246913583565
 14384,Resort Hotel,2017,January,0,0.04
 46740,City Hotel,2016,January,1,0.83
 76291,City Hotel,2015,July,1,0.9740000000000001
@@ -18423,7 +18423,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 71978,City Hotel,2017,July,1,0.85
 72446,City Hotel,2017,July,1,0.99
 81799,City Hotel,2016,February,1,1.0
-42288,City Hotel,2015,September,0,0.5078030286288397
+42288,City Hotel,2015,September,0,0.5078030286288395
 45397,City Hotel,2015,October,1,0.79
 47064,City Hotel,2016,February,1,0.94
 41874,City Hotel,2015,August,1,0.41
@@ -18472,7 +18472,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 73626,City Hotel,2017,August,1,0.695
 12228,Resort Hotel,2017,June,1,0.97
 9818,Resort Hotel,2017,January,1,0.04
-104398,City Hotel,2017,January,0,0.4766666666666666
+104398,City Hotel,2017,January,0,0.47666666666666674
 5905,Resort Hotel,2016,May,0,0.0
 108352,City Hotel,2017,March,0,0.01
 119282,City Hotel,2017,August,0,0.63
@@ -18588,7 +18588,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 25806,Resort Hotel,2016,July,0,0.0
 24715,Resort Hotel,2016,May,0,0.215
 110999,City Hotel,2017,May,0,0.0
-23623,Resort Hotel,2016,April,0,0.06362246913583566
+23623,Resort Hotel,2016,April,0,0.06362246913583565
 61744,City Hotel,2016,December,1,0.31
 99760,City Hotel,2016,October,0,0.23
 41300,City Hotel,2015,August,0,0.0
@@ -18605,7 +18605,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 87779,City Hotel,2016,April,0,0.2033333333333333
 39273,Resort Hotel,2017,August,0,0.65
 105887,City Hotel,2017,February,0,0.68
-30955,Resort Hotel,2016,December,0,0.16083333333333333
+30955,Resort Hotel,2016,December,0,0.16083333333333336
 71759,City Hotel,2017,July,1,0.45
 64074,City Hotel,2017,March,1,0.06
 113300,City Hotel,2017,June,0,0.0
@@ -18637,7 +18637,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 8222,Resort Hotel,2016,September,0,0.0
 72228,City Hotel,2017,July,1,0.52
 109609,City Hotel,2017,April,0,0.6
-44572,City Hotel,2015,October,0,0.11188877462406871
+44572,City Hotel,2015,October,0,0.11188877462406874
 28872,Resort Hotel,2016,October,0,0.06
 39408,Resort Hotel,2017,August,0,0.21
 10030,Resort Hotel,2017,February,1,0.49
@@ -18677,7 +18677,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 67154,City Hotel,2017,April,1,0.81
 68493,City Hotel,2017,May,1,1.0
 85582,City Hotel,2016,March,0,0.01
-11681,Resort Hotel,2017,May,1,0.45666666666666667
+11681,Resort Hotel,2017,May,1,0.4566666666666667
 95290,City Hotel,2016,August,0,0.01
 116421,City Hotel,2017,July,0,0.85
 39572,Resort Hotel,2017,August,0,0.07
@@ -18710,7 +18710,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 45830,City Hotel,2015,November,1,1.0
 16202,Resort Hotel,2015,August,0,0.55
 19378,Resort Hotel,2015,December,0,0.01
-55519,City Hotel,2016,August,1,0.5874999999999999
+55519,City Hotel,2016,August,1,0.5875
 82433,City Hotel,2015,December,0,0.01
 32313,Resort Hotel,2017,January,0,0.01
 116620,City Hotel,2017,July,0,0.13
@@ -18719,11 +18719,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 29969,Resort Hotel,2016,November,0,0.0
 27129,Resort Hotel,2016,August,0,0.03
 15320,Resort Hotel,2015,October,1,1.0
-106090,City Hotel,2017,February,0,0.0469563492063492
+106090,City Hotel,2017,February,0,0.04695634920634921
 15485,Resort Hotel,2015,July,0,0.06
 30756,Resort Hotel,2016,December,0,0.03
 28242,Resort Hotel,2016,September,0,0.14
-33688,Resort Hotel,2017,February,0,0.18833333333333335
+33688,Resort Hotel,2017,February,0,0.18833333333333332
 48792,City Hotel,2016,March,1,0.3
 87476,City Hotel,2016,April,0,0.01
 36757,Resort Hotel,2017,May,0,0.2
@@ -18879,7 +18879,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 117649,City Hotel,2017,August,0,0.0
 59065,City Hotel,2016,October,1,1.0
 103667,City Hotel,2016,December,0,0.3
-52072,City Hotel,2016,May,1,0.9322294085642447
+52072,City Hotel,2016,May,1,0.9322294085642449
 95502,City Hotel,2016,August,0,0.0
 11616,Resort Hotel,2017,May,1,0.86
 82141,City Hotel,2016,February,1,1.0
@@ -18931,7 +18931,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 51788,City Hotel,2016,May,1,0.09
 50896,City Hotel,2016,May,1,0.51
 75883,City Hotel,2015,October,1,1.0
-62643,City Hotel,2017,January,1,0.827518537018537
+62643,City Hotel,2017,January,1,0.8275185370185367
 62661,City Hotel,2017,January,1,1.0
 71128,City Hotel,2017,June,1,1.0
 40379,City Hotel,2015,July,0,0.0
@@ -18959,7 +18959,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 34223,Resort Hotel,2017,March,0,0.0
 25617,Resort Hotel,2016,June,0,0.13
 50378,City Hotel,2016,April,1,0.7
-84058,City Hotel,2016,February,0,0.19666666666666666
+84058,City Hotel,2016,February,0,0.19666666666666668
 56131,City Hotel,2016,August,1,0.7116666666666667
 26535,Resort Hotel,2016,July,0,0.14
 94396,City Hotel,2017,July,0,0.38
@@ -19082,7 +19082,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 80293,City Hotel,2015,December,1,1.0
 108591,City Hotel,2017,March,0,0.0
 66201,City Hotel,2017,April,1,1.0
-66580,City Hotel,2017,April,1,0.6704047619047618
+66580,City Hotel,2017,April,1,0.6704047619047617
 22790,Resort Hotel,2016,April,0,0.0
 117427,City Hotel,2017,July,0,0.0
 92094,City Hotel,2016,June,0,0.16
@@ -19158,7 +19158,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 27326,Resort Hotel,2016,August,0,0.24575
 52878,City Hotel,2016,June,1,1.0
 108441,City Hotel,2017,March,0,0.69
-23613,Resort Hotel,2016,April,0,0.06362246913583566
+23613,Resort Hotel,2016,April,0,0.06362246913583565
 47845,City Hotel,2016,March,1,0.52
 113002,City Hotel,2017,May,0,0.67
 89914,City Hotel,2016,May,0,0.23
@@ -19184,7 +19184,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 39569,Resort Hotel,2017,August,0,0.1
 24134,Resort Hotel,2016,May,0,0.48
 108372,City Hotel,2017,March,0,0.14
-40971,City Hotel,2015,August,1,0.4964619087053297
+40971,City Hotel,2015,August,1,0.49646190870532986
 58951,City Hotel,2016,October,1,0.95
 19669,Resort Hotel,2015,December,0,0.07
 39959,Resort Hotel,2017,August,0,0.42
@@ -19218,7 +19218,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 88771,City Hotel,2016,November,1,0.36
 109027,City Hotel,2017,April,0,0.03
 59446,City Hotel,2016,October,1,1.0
-106726,City Hotel,2017,February,0,0.7058333333333334
+106726,City Hotel,2017,February,0,0.7058333333333333
 2803,Resort Hotel,2015,October,0,0.34
 54842,City Hotel,2016,July,1,1.0
 55104,City Hotel,2016,August,1,0.77
@@ -19230,13 +19230,13 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 72418,City Hotel,2017,July,1,1.0
 56802,City Hotel,2016,September,1,0.88
 86149,City Hotel,2016,March,0,0.01
-84089,City Hotel,2016,February,0,0.14630108780108775
+84089,City Hotel,2016,February,0,0.1463010878010878
 92408,City Hotel,2016,June,0,0.25
 56643,City Hotel,2016,September,1,1.0
 8894,Resort Hotel,2016,October,1,0.826
 16148,Resort Hotel,2015,August,0,0.3
 104437,City Hotel,2017,January,0,0.07
-23398,Resort Hotel,2016,April,0,0.10666666666666667
+23398,Resort Hotel,2016,April,0,0.10666666666666666
 31554,Resort Hotel,2016,December,0,0.18
 85624,City Hotel,2016,March,0,0.04
 35460,Resort Hotel,2017,April,0,0.01
@@ -19327,7 +19327,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 93700,City Hotel,2016,July,0,0.12
 8742,Resort Hotel,2016,October,0,0.0
 63088,City Hotel,2017,January,1,0.39
-49272,City Hotel,2016,April,1,0.5646175768675766
+49272,City Hotel,2016,April,1,0.5646175768675767
 83889,City Hotel,2016,February,0,0.09
 33591,Resort Hotel,2017,February,0,0.2
 72492,City Hotel,2017,July,1,0.28
@@ -19487,9 +19487,9 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 81532,City Hotel,2016,June,1,1.0
 106731,City Hotel,2017,February,0,0.425
 44915,City Hotel,2015,October,1,1.0
-87834,City Hotel,2016,April,0,0.07728229205435087
+87834,City Hotel,2016,April,0,0.07728229205435086
 74343,City Hotel,2015,July,1,1.0
-107443,City Hotel,2017,March,0,0.014857142857142855
+107443,City Hotel,2017,March,0,0.014857142857142857
 110385,City Hotel,2017,April,0,0.12666666666666665
 58938,City Hotel,2016,October,1,0.94
 91704,City Hotel,2016,June,0,0.0
@@ -19579,7 +19579,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 47525,City Hotel,2016,February,1,0.353
 51361,City Hotel,2016,May,1,1.0
 29085,Resort Hotel,2016,December,0,0.0
-42476,City Hotel,2015,September,0,0.24543166953019036
+42476,City Hotel,2015,September,0,0.24543166953019033
 85498,City Hotel,2016,March,0,0.0
 12243,Resort Hotel,2017,June,1,0.51
 76608,City Hotel,2015,July,0,0.0
@@ -19674,7 +19674,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 105992,City Hotel,2017,February,0,0.0
 101197,City Hotel,2016,November,0,0.01
 108301,City Hotel,2017,March,0,0.0
-37179,Resort Hotel,2017,June,0,0.58030463980464
+37179,Resort Hotel,2017,June,0,0.5803046398046401
 60170,City Hotel,2016,November,1,1.0
 59114,City Hotel,2016,October,1,1.0
 2634,Resort Hotel,2015,October,1,1.0
@@ -19728,7 +19728,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 1284,Resort Hotel,2015,August,0,0.06
 34555,Resort Hotel,2017,March,0,0.28
 100379,City Hotel,2016,October,0,0.67
-87276,City Hotel,2016,April,0,0.34480677561665785
+87276,City Hotel,2016,April,0,0.34480677561665796
 98879,City Hotel,2016,October,0,0.01
 20671,Resort Hotel,2016,February,0,0.02
 15499,Resort Hotel,2015,July,0,0.0
@@ -19813,7 +19813,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 61609,City Hotel,2016,December,1,0.13333333333333333
 49651,City Hotel,2016,April,0,0.4218181818181818
 75335,City Hotel,2015,August,1,1.0
-64369,City Hotel,2017,March,1,0.5556388888888888
+64369,City Hotel,2017,March,1,0.5556388888888889
 98043,City Hotel,2016,September,0,0.36
 73077,City Hotel,2017,August,1,0.15
 56854,City Hotel,2016,September,1,1.0
@@ -19845,7 +19845,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 36910,Resort Hotel,2017,May,0,0.06
 26747,Resort Hotel,2016,August,0,0.57
 20293,Resort Hotel,2016,January,0,0.0
-91834,City Hotel,2016,June,0,0.07524289726030536
+91834,City Hotel,2016,June,0,0.07524289726030538
 92743,City Hotel,2016,July,0,0.0
 60678,City Hotel,2016,November,1,1.0
 67344,City Hotel,2017,May,1,0.57
@@ -19872,9 +19872,9 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 62820,City Hotel,2017,January,1,1.0
 20533,Resort Hotel,2016,January,0,0.06
 32413,Resort Hotel,2017,January,0,0.02
-110747,City Hotel,2017,April,0,0.5666428571428571
+110747,City Hotel,2017,April,0,0.5666428571428572
 80412,City Hotel,2015,December,1,1.0
-112264,City Hotel,2017,May,0,0.20083333333333336
+112264,City Hotel,2017,May,0,0.2008333333333333
 109600,City Hotel,2017,April,0,0.13
 103401,City Hotel,2016,December,0,0.41
 87295,City Hotel,2016,April,0,0.02
@@ -19898,7 +19898,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 11464,Resort Hotel,2017,May,1,1.0
 17590,Resort Hotel,2015,October,0,0.04
 3909,Resort Hotel,2016,February,1,0.6359847665166062
-41726,City Hotel,2015,August,1,0.6721843883240942
+41726,City Hotel,2015,August,1,0.672184388324094
 116648,City Hotel,2017,July,0,0.45
 37521,Resort Hotel,2017,June,0,0.28
 75525,City Hotel,2015,October,1,1.0
@@ -19938,7 +19938,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 7097,Resort Hotel,2016,July,1,0.98
 9077,Resort Hotel,2016,October,1,0.07
 94600,City Hotel,2016,August,0,0.04
-41113,City Hotel,2015,August,0,0.059471607637612466
+41113,City Hotel,2015,August,0,0.05947160763761247
 78523,City Hotel,2015,October,0,0.02
 118335,City Hotel,2017,August,0,0.23
 65926,City Hotel,2017,April,1,0.81
@@ -20269,12 +20269,12 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 109702,City Hotel,2017,April,0,0.16
 73243,City Hotel,2017,August,1,0.16
 8527,Resort Hotel,2016,October,1,0.91
-90062,City Hotel,2016,May,0,0.6623333333333332
+90062,City Hotel,2016,May,0,0.6623333333333333
 95380,City Hotel,2016,August,0,0.07
 99488,City Hotel,2016,October,0,0.01
 18435,Resort Hotel,2016,May,0,0.08
 67958,City Hotel,2017,May,1,1.0
-56577,City Hotel,2016,September,1,0.7216666666666667
+56577,City Hotel,2016,September,1,0.7216666666666666
 99645,City Hotel,2016,October,0,0.0
 17554,Resort Hotel,2016,November,0,0.03
 38947,Resort Hotel,2017,July,0,0.26
@@ -20287,7 +20287,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 99711,City Hotel,2016,October,0,0.0
 26091,Resort Hotel,2016,July,0,0.05
 63885,City Hotel,2017,February,1,0.725
-56307,City Hotel,2016,September,1,0.9646666666666667
+56307,City Hotel,2016,September,1,0.9646666666666666
 109626,City Hotel,2017,April,0,0.14
 86871,City Hotel,2016,April,0,0.01
 70365,City Hotel,2017,June,1,0.31
@@ -20315,7 +20315,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 6074,Resort Hotel,2016,May,0,0.0
 11143,Resort Hotel,2017,April,1,1.0
 110579,City Hotel,2017,April,0,0.165
-106480,City Hotel,2017,February,0,0.474905418896072
+106480,City Hotel,2017,February,0,0.4749054188960721
 15337,Resort Hotel,2015,September,1,0.97
 118596,City Hotel,2017,August,0,0.55
 74730,City Hotel,2015,July,1,1.0
@@ -20398,7 +20398,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 66975,City Hotel,2017,April,1,0.72
 29869,Resort Hotel,2016,November,0,0.01
 118865,City Hotel,2017,August,0,0.08
-24225,Resort Hotel,2016,May,0,0.34424112978524746
+24225,Resort Hotel,2016,May,0,0.3442411297852474
 69899,City Hotel,2017,June,1,0.24
 90084,City Hotel,2016,June,0,0.2
 46256,City Hotel,2015,December,0,0.0
@@ -20527,7 +20527,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 48987,City Hotel,2016,April,0,0.7
 14699,Resort Hotel,2015,September,1,1.0
 78836,City Hotel,2015,October,0,0.01
-82602,City Hotel,2015,December,0,0.3108333333333333
+82602,City Hotel,2015,December,0,0.31083333333333335
 113204,City Hotel,2017,June,0,0.14
 109262,City Hotel,2017,April,0,0.04
 39172,Resort Hotel,2017,August,0,0.1
@@ -20537,7 +20537,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 79643,City Hotel,2015,October,0,0.012857142857142855
 1901,Resort Hotel,2015,September,0,0.0
 40737,City Hotel,2015,August,0,0.0
-32144,Resort Hotel,2017,January,0,0.1576451543839672
+32144,Resort Hotel,2017,January,0,0.15764515438396717
 95947,City Hotel,2016,August,0,0.07
 75115,City Hotel,2015,September,1,1.0
 81739,City Hotel,2016,February,1,1.0
@@ -20554,7 +20554,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 60865,City Hotel,2016,November,1,0.89
 57279,City Hotel,2016,September,1,0.535
 92052,City Hotel,2016,June,0,0.17
-24166,Resort Hotel,2016,May,0,0.5481728551294207
+24166,Resort Hotel,2016,May,0,0.5481728551294206
 85268,City Hotel,2016,March,0,0.0
 60320,City Hotel,2016,November,1,0.97
 41891,City Hotel,2015,August,1,0.6871904761904759
@@ -20689,12 +20689,12 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 101654,City Hotel,2016,November,0,0.41
 85828,City Hotel,2016,March,0,0.5
 48165,City Hotel,2016,March,1,1.0
-91877,City Hotel,2016,June,0,0.07524289726030536
+91877,City Hotel,2016,June,0,0.07524289726030538
 97712,City Hotel,2016,September,0,0.0
 61778,City Hotel,2016,December,1,1.0
 111973,City Hotel,2017,May,0,0.32
 3910,Resort Hotel,2016,February,1,0.6359847665166062
-93543,City Hotel,2016,July,0,0.26571295371295356
+93543,City Hotel,2016,July,0,0.2657129537129535
 101235,City Hotel,2016,November,0,0.03
 97205,City Hotel,2016,September,0,0.0725
 59749,City Hotel,2016,November,1,1.0
@@ -20707,7 +20707,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 95208,City Hotel,2016,August,0,0.38
 25534,Resort Hotel,2016,June,0,0.06
 46223,City Hotel,2015,December,1,0.83
-21694,Resort Hotel,2016,March,0,0.2473809523809524
+21694,Resort Hotel,2016,March,0,0.24738095238095237
 106067,City Hotel,2017,February,0,0.0
 86609,City Hotel,2016,April,0,0.23
 113725,City Hotel,2017,June,0,0.01
@@ -20753,7 +20753,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 103178,City Hotel,2016,December,0,0.0
 44488,City Hotel,2015,October,1,0.98
 12865,Resort Hotel,2017,July,1,0.24
-63915,City Hotel,2017,February,1,0.474905418896072
+63915,City Hotel,2017,February,1,0.4749054188960721
 14179,Resort Hotel,2016,January,0,0.0
 85037,City Hotel,2016,March,0,0.08
 102274,City Hotel,2016,November,0,0.05
@@ -21071,7 +21071,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 48187,City Hotel,2016,March,1,1.0
 19870,Resort Hotel,2015,December,0,0.5698039215686275
 39114,Resort Hotel,2017,August,0,0.48
-1427,Resort Hotel,2015,August,0,0.3045614035087719
+1427,Resort Hotel,2015,August,0,0.304561403508772
 26567,Resort Hotel,2016,July,0,0.02
 30164,Resort Hotel,2016,November,0,0.29
 117989,City Hotel,2017,August,0,0.28
@@ -21109,9 +21109,9 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 73458,City Hotel,2017,August,1,0.44
 69293,City Hotel,2017,May,1,0.73
 71430,City Hotel,2017,July,1,0.35
-80950,City Hotel,2015,November,0,0.05928571428571429
+80950,City Hotel,2015,November,0,0.05928571428571428
 96249,City Hotel,2016,August,0,0.06
-28674,Resort Hotel,2016,October,0,0.26583333333333337
+28674,Resort Hotel,2016,October,0,0.2658333333333333
 87822,City Hotel,2016,April,0,0.66
 37661,Resort Hotel,2017,June,0,0.15
 49066,City Hotel,2016,April,1,1.0
@@ -21158,7 +21158,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 35879,Resort Hotel,2017,May,0,0.01
 77571,City Hotel,2015,September,0,0.01
 36296,Resort Hotel,2017,May,0,0.23766666666666666
-8280,Resort Hotel,2016,September,0,0.38
+8280,Resort Hotel,2016,September,0,0.37999999999999995
 373,Resort Hotel,2015,July,0,0.24
 3465,Resort Hotel,2015,December,0,0.13495670995670997
 118314,City Hotel,2017,August,0,0.13
@@ -21196,7 +21196,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 92682,City Hotel,2016,July,0,0.16
 92511,City Hotel,2016,July,0,0.09
 89749,City Hotel,2016,May,0,0.0
-18508,Resort Hotel,2015,November,0,0.17950000000000002
+18508,Resort Hotel,2015,November,0,0.1795
 107544,City Hotel,2017,March,0,0.0
 29090,Resort Hotel,2016,October,0,0.345
 71727,City Hotel,2017,July,1,1.0
@@ -21216,9 +21216,9 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 107132,City Hotel,2017,March,0,0.14
 67437,City Hotel,2017,May,1,1.0
 31403,Resort Hotel,2016,December,0,0.13117647058823528
-64013,City Hotel,2017,February,1,0.8976696750961451
+64013,City Hotel,2017,February,1,0.8976696750961453
 21365,Resort Hotel,2016,February,0,0.0
-98159,City Hotel,2016,September,0,0.6266666666666666
+98159,City Hotel,2016,September,0,0.6266666666666667
 79756,City Hotel,2015,November,0,0.0
 68573,City Hotel,2017,May,1,1.0
 112921,City Hotel,2017,May,0,0.06
@@ -21263,7 +21263,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 51085,City Hotel,2016,May,1,1.0
 116024,City Hotel,2017,July,0,0.55
 102309,City Hotel,2016,November,0,0.5245000000000001
-90878,City Hotel,2016,June,0,0.07413608540659881
+90878,City Hotel,2016,June,0,0.0741360854065988
 115411,City Hotel,2017,July,0,0.0
 35918,Resort Hotel,2017,May,0,0.19
 117033,City Hotel,2017,July,0,0.01
@@ -21321,7 +21321,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 43464,City Hotel,2015,September,1,1.0
 45492,City Hotel,2015,October,1,1.0
 10506,Resort Hotel,2017,March,1,0.5145
-41091,City Hotel,2015,August,0,0.059471607637612466
+41091,City Hotel,2015,August,0,0.05947160763761247
 18978,Resort Hotel,2016,January,0,0.08
 54062,City Hotel,2016,July,1,1.0
 92499,City Hotel,2016,June,0,0.36
@@ -21370,7 +21370,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 22204,Resort Hotel,2016,March,0,0.27666666666666667
 104967,City Hotel,2017,January,0,0.0
 117984,City Hotel,2017,August,0,0.04
-24774,Resort Hotel,2016,May,0,0.6933333333333332
+24774,Resort Hotel,2016,May,0,0.6933333333333335
 1037,Resort Hotel,2015,August,1,0.54
 10422,Resort Hotel,2017,March,1,1.0
 57594,City Hotel,2016,September,1,0.97
@@ -21471,7 +21471,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 72186,City Hotel,2017,July,1,0.44
 105553,City Hotel,2017,February,0,0.42
 16230,Resort Hotel,2015,August,0,0.49
-112663,City Hotel,2017,May,0,0.15666666666666665
+112663,City Hotel,2017,May,0,0.15666666666666668
 89531,City Hotel,2016,May,0,0.02583333333333333
 67325,City Hotel,2017,May,1,1.0
 99662,City Hotel,2016,October,0,0.0
@@ -21511,7 +21511,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 36649,Resort Hotel,2017,May,0,0.0
 110575,City Hotel,2017,April,0,0.08
 118118,City Hotel,2017,August,0,0.18
-44669,City Hotel,2015,October,0,0.7983008604518227
+44669,City Hotel,2015,October,0,0.7983008604518228
 81457,City Hotel,2015,December,0,0.0
 78565,City Hotel,2016,June,0,0.02
 7305,Resort Hotel,2016,August,1,0.17
@@ -21533,12 +21533,12 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 78539,City Hotel,2015,October,0,0.0425
 113666,City Hotel,2017,June,0,0.17
 56245,City Hotel,2016,September,1,0.86
-34240,Resort Hotel,2017,March,0,0.2969387556887556
+34240,Resort Hotel,2017,March,0,0.29693875568875566
 114818,City Hotel,2017,June,0,0.0
 79839,City Hotel,2015,December,1,1.0
 15739,Resort Hotel,2015,July,0,0.37
 31739,Resort Hotel,2016,February,0,0.23
-57662,City Hotel,2016,September,1,0.9833333333333334
+57662,City Hotel,2016,September,1,0.9833333333333333
 115805,City Hotel,2017,July,0,0.42
 39632,Resort Hotel,2017,August,0,0.23
 107197,City Hotel,2017,March,0,0.0
@@ -21611,7 +21611,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 89392,City Hotel,2016,May,0,0.3326722687111127
 34272,Resort Hotel,2017,March,0,0.03
 68739,City Hotel,2017,May,1,1.0
-32234,Resort Hotel,2017,January,0,0.1576451543839672
+32234,Resort Hotel,2017,January,0,0.15764515438396717
 377,Resort Hotel,2015,July,0,0.0
 65528,City Hotel,2017,April,1,0.3024810606060606
 112367,City Hotel,2017,May,0,0.01
@@ -21694,7 +21694,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 114207,City Hotel,2017,June,0,0.08
 92902,City Hotel,2016,July,0,0.01
 63854,City Hotel,2017,February,1,1.0
-63933,City Hotel,2017,February,1,0.474905418896072
+63933,City Hotel,2017,February,1,0.4749054188960721
 92721,City Hotel,2016,July,0,0.01
 116791,City Hotel,2017,July,0,0.35
 36037,Resort Hotel,2017,May,0,0.10666666666666667
@@ -21707,7 +21707,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 2354,Resort Hotel,2015,October,0,0.03
 26170,Resort Hotel,2016,July,0,0.85
 3006,Resort Hotel,2015,November,1,0.87
-109190,City Hotel,2017,April,0,0.4067645197939316
+109190,City Hotel,2017,April,0,0.40676451979393163
 69159,City Hotel,2017,May,1,0.67
 21326,Resort Hotel,2016,February,0,0.01
 16440,Resort Hotel,2015,August,0,0.0
@@ -21719,9 +21719,9 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 112138,City Hotel,2017,May,0,0.15
 21426,Resort Hotel,2016,February,0,0.01
 93081,City Hotel,2016,July,0,0.0
-108415,City Hotel,2017,March,0,0.7333333333333334
+108415,City Hotel,2017,March,0,0.7333333333333333
 117797,City Hotel,2017,August,0,0.11
-57658,City Hotel,2016,September,1,0.9833333333333334
+57658,City Hotel,2016,September,1,0.9833333333333333
 13175,Resort Hotel,2017,August,1,0.78
 115347,City Hotel,2017,July,0,0.08
 8680,Resort Hotel,2016,October,1,1.0
@@ -21765,7 +21765,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 100872,City Hotel,2016,October,0,0.0
 79921,City Hotel,2015,November,1,0.95
 101700,City Hotel,2016,November,0,0.14
-90876,City Hotel,2016,June,0,0.2071666666666667
+90876,City Hotel,2016,June,0,0.20716666666666664
 97199,City Hotel,2016,September,0,0.0
 44664,City Hotel,2015,October,0,0.0
 50760,City Hotel,2016,May,1,0.52
@@ -21822,7 +21822,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 31844,Resort Hotel,2017,January,0,0.03
 69547,City Hotel,2017,June,1,0.5033333333333333
 28227,Resort Hotel,2016,September,0,0.16
-45747,City Hotel,2015,November,1,0.47422902097902087
+45747,City Hotel,2015,November,1,0.47422902097902075
 75902,City Hotel,2015,July,1,1.0
 32444,Resort Hotel,2017,April,0,0.39
 118562,City Hotel,2017,August,0,0.1
@@ -21985,7 +21985,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 109662,City Hotel,2017,April,0,0.15
 28575,Resort Hotel,2016,October,0,0.0
 22380,Resort Hotel,2016,March,0,0.08
-87293,City Hotel,2016,April,0,0.4360258079039939
+87293,City Hotel,2016,April,0,0.43602580790399403
 45203,City Hotel,2015,October,1,1.0
 34034,Resort Hotel,2017,March,0,0.5
 52378,City Hotel,2016,June,0,0.14
@@ -22030,7 +22030,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 92628,City Hotel,2016,July,0,0.27
 99983,City Hotel,2016,October,0,0.28
 66260,City Hotel,2017,April,1,1.0
-40572,City Hotel,2015,August,0,0.3531048396048396
+40572,City Hotel,2015,August,0,0.35310483960483974
 51317,City Hotel,2016,May,0,0.11
 106657,City Hotel,2017,February,0,0.008
 89682,City Hotel,2016,May,0,0.04
@@ -22071,7 +22071,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 89939,City Hotel,2016,May,0,0.26
 64231,City Hotel,2017,March,1,0.43
 6094,Resort Hotel,2016,May,1,0.748968253968254
-5656,Resort Hotel,2016,May,1,0.5783333333333333
+5656,Resort Hotel,2016,May,1,0.5783333333333334
 59421,City Hotel,2016,October,1,1.0
 68197,City Hotel,2017,May,1,1.0
 30241,Resort Hotel,2016,November,0,0.595
@@ -22084,7 +22084,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 75447,City Hotel,2015,September,1,1.0
 74772,City Hotel,2015,October,0,0.0
 98820,City Hotel,2016,October,0,0.3
-9013,Resort Hotel,2016,October,1,0.5066666666666667
+9013,Resort Hotel,2016,October,1,0.5066666666666666
 63684,City Hotel,2017,February,1,1.0
 103601,City Hotel,2016,December,0,0.69
 41333,City Hotel,2015,August,1,1.0
@@ -22129,7 +22129,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 65712,City Hotel,2017,April,1,1.0
 4661,Resort Hotel,2016,March,1,0.41
 49418,City Hotel,2016,April,1,0.7216666666666666
-87253,City Hotel,2016,April,0,0.34480677561665785
+87253,City Hotel,2016,April,0,0.34480677561665796
 74169,City Hotel,2015,October,1,1.0
 8770,Resort Hotel,2016,October,0,0.0
 81983,City Hotel,2016,March,1,1.0
@@ -22176,7 +22176,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 112718,City Hotel,2017,May,0,0.222
 101891,City Hotel,2016,November,0,0.3466666666666666
 64354,City Hotel,2017,March,1,0.115
-63934,City Hotel,2017,February,1,0.474905418896072
+63934,City Hotel,2017,February,1,0.4749054188960721
 3863,Resort Hotel,2016,January,1,0.33
 86777,City Hotel,2016,April,0,0.05
 71881,City Hotel,2017,July,1,0.5
@@ -22193,7 +22193,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 27512,Resort Hotel,2016,August,0,0.23
 31629,Resort Hotel,2016,December,0,0.21
 82040,City Hotel,2016,October,1,1.0
-62650,City Hotel,2017,January,1,0.827518537018537
+62650,City Hotel,2017,January,1,0.8275185370185367
 80646,City Hotel,2015,November,0,0.0
 104045,City Hotel,2017,January,0,0.83
 94288,City Hotel,2016,August,0,0.06
@@ -22212,11 +22212,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 9990,Resort Hotel,2017,February,1,0.44
 94,Resort Hotel,2015,July,1,0.49
 56078,City Hotel,2016,August,1,0.37
-46922,City Hotel,2016,January,1,0.4651428571428572
+46922,City Hotel,2016,January,1,0.46514285714285725
 115467,City Hotel,2017,July,0,0.08
 3007,Resort Hotel,2015,November,0,0.01
 98128,City Hotel,2016,September,0,0.0
-34796,Resort Hotel,2017,April,0,0.34333333333333327
+34796,Resort Hotel,2017,April,0,0.3433333333333334
 55207,City Hotel,2016,August,1,0.78
 55410,City Hotel,2016,August,1,0.78
 104201,City Hotel,2017,January,0,0.26
@@ -22381,7 +22381,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 22412,Resort Hotel,2016,March,0,0.01
 84994,City Hotel,2016,March,0,0.0
 60693,City Hotel,2016,November,1,0.83
-65889,City Hotel,2017,April,1,0.39666666666666667
+65889,City Hotel,2017,April,1,0.3966666666666667
 116477,City Hotel,2017,July,0,0.54
 23516,Resort Hotel,2016,April,0,0.78
 72842,City Hotel,2017,August,1,0.79
@@ -22401,13 +22401,13 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 102061,City Hotel,2016,November,0,0.14
 117972,City Hotel,2017,August,0,0.01
 103860,City Hotel,2016,December,0,0.0
-106508,City Hotel,2017,February,0,0.474905418896072
+106508,City Hotel,2017,February,0,0.4749054188960721
 77329,City Hotel,2015,October,1,1.0
 71783,City Hotel,2017,July,1,1.0
 78981,City Hotel,2015,October,0,0.0
 59042,City Hotel,2016,October,1,1.0
 82860,City Hotel,2016,February,1,1.0
-45807,City Hotel,2015,November,0,0.02942441629521091
+45807,City Hotel,2015,November,0,0.029424416295210917
 64248,City Hotel,2017,March,1,0.75
 70166,City Hotel,2017,June,1,0.9
 74116,City Hotel,2015,September,1,1.0
@@ -22501,7 +22501,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 8675,Resort Hotel,2016,October,1,1.0
 80960,City Hotel,2015,November,0,0.02
 66299,City Hotel,2017,April,1,1.0
-45751,City Hotel,2015,November,0,0.02942441629521091
+45751,City Hotel,2015,November,0,0.029424416295210917
 98153,City Hotel,2016,September,0,0.04054054054054054
 80151,City Hotel,2015,December,1,0.99
 40326,City Hotel,2015,July,0,0.2978801858467166
@@ -22509,7 +22509,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 8255,Resort Hotel,2016,September,1,1.0
 29929,Resort Hotel,2016,November,0,0.53
 44721,City Hotel,2015,October,0,0.15533333333333332
-87260,City Hotel,2016,April,0,0.34480677561665785
+87260,City Hotel,2016,April,0,0.34480677561665796
 63317,City Hotel,2017,February,1,0.68
 77494,City Hotel,2015,September,0,0.0
 116083,City Hotel,2017,July,0,0.0
@@ -22583,20 +22583,20 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 88831,City Hotel,2016,July,0,0.11
 71986,City Hotel,2017,July,1,0.65
 97925,City Hotel,2016,September,0,0.0
-88915,City Hotel,2016,May,0,0.3704047619047619
+88915,City Hotel,2016,May,0,0.37040476190476196
 15957,Resort Hotel,2015,August,0,0.01
 97190,City Hotel,2016,September,0,0.53
-19303,Resort Hotel,2015,December,0,0.30666666666666664
+19303,Resort Hotel,2015,December,0,0.3066666666666667
 40821,City Hotel,2015,August,0,0.03
 38127,Resort Hotel,2017,July,0,0.06
 92837,City Hotel,2016,July,0,0.09
 33265,Resort Hotel,2017,February,0,0.11
 2542,Resort Hotel,2015,October,0,0.63
-72379,City Hotel,2017,July,1,0.6608333333333333
+72379,City Hotel,2017,July,1,0.6608333333333334
 8654,Resort Hotel,2016,October,0,0.01
 16767,Resort Hotel,2015,September,0,0.25
 118607,City Hotel,2017,August,0,0.06
-38012,Resort Hotel,2017,July,0,0.24309523809523811
+38012,Resort Hotel,2017,July,0,0.24309523809523806
 92894,City Hotel,2016,July,0,0.03
 25833,Resort Hotel,2016,June,0,0.0
 45025,City Hotel,2015,October,1,1.0
@@ -22617,7 +22617,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 98099,City Hotel,2016,September,0,0.0
 55717,City Hotel,2016,August,1,0.56
 77985,City Hotel,2015,October,1,1.0
-99155,City Hotel,2016,October,0,0.11307692307692306
+99155,City Hotel,2016,October,0,0.11307692307692309
 67253,City Hotel,2017,April,1,0.08
 68435,City Hotel,2017,May,1,0.19
 92422,City Hotel,2016,July,0,0.215
@@ -22715,7 +22715,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 46902,City Hotel,2016,January,1,0.29
 78282,City Hotel,2015,October,0,0.14666666666666667
 72582,City Hotel,2017,July,1,0.4
-103063,City Hotel,2016,December,0,0.4818809523809523
+103063,City Hotel,2016,December,0,0.48188095238095235
 109559,City Hotel,2017,April,0,0.7
 33497,Resort Hotel,2017,February,0,0.0
 118768,City Hotel,2017,August,0,0.21
@@ -22824,7 +22824,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 24732,Resort Hotel,2016,May,0,0.04
 81319,City Hotel,2015,December,0,0.02
 1952,Resort Hotel,2015,September,1,0.83
-43007,City Hotel,2015,September,0,0.22991671369989436
+43007,City Hotel,2015,September,0,0.22991671369989433
 78229,City Hotel,2015,October,0,0.01
 2335,Resort Hotel,2015,October,1,1.0
 91191,City Hotel,2016,June,0,0.4
@@ -22839,7 +22839,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 77814,City Hotel,2015,September,0,0.125
 73560,City Hotel,2017,August,1,0.07
 38272,Resort Hotel,2017,July,0,0.55
-32524,Resort Hotel,2017,January,0,0.24916666666666668
+32524,Resort Hotel,2017,January,0,0.24916666666666665
 63074,City Hotel,2017,January,1,0.47
 68188,City Hotel,2017,May,1,0.38
 3719,Resort Hotel,2015,December,0,0.12
@@ -22855,7 +22855,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 98371,City Hotel,2016,September,0,0.47
 118525,City Hotel,2017,August,0,0.0
 60036,City Hotel,2016,November,1,1.0
-44680,City Hotel,2015,October,0,0.7983008604518227
+44680,City Hotel,2015,October,0,0.7983008604518228
 11091,Resort Hotel,2017,April,1,0.24
 32074,Resort Hotel,2017,January,0,0.15
 101765,City Hotel,2016,November,0,0.06
@@ -22957,8 +22957,8 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 15816,Resort Hotel,2015,July,0,0.05
 108810,City Hotel,2017,March,0,0.02
 63735,City Hotel,2017,February,1,0.24
-52079,City Hotel,2016,May,1,0.9322294085642447
-9873,Resort Hotel,2017,January,1,0.1576451543839672
+52079,City Hotel,2016,May,1,0.9322294085642449
+9873,Resort Hotel,2017,January,1,0.15764515438396717
 107319,City Hotel,2017,March,0,0.72
 47758,City Hotel,2016,March,1,0.11
 11582,Resort Hotel,2017,May,1,0.41666666666666674
@@ -22994,7 +22994,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 96712,City Hotel,2016,September,0,0.02
 111884,City Hotel,2017,May,0,0.17
 90332,City Hotel,2016,June,0,0.0
-117890,City Hotel,2017,August,0,0.4056666666666668
+117890,City Hotel,2017,August,0,0.4056666666666667
 105158,City Hotel,2017,January,0,0.0
 96822,City Hotel,2016,September,0,0.12
 66049,City Hotel,2017,April,1,0.74
@@ -23006,7 +23006,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 112967,City Hotel,2017,May,0,0.01
 33307,Resort Hotel,2017,February,0,0.0
 44070,City Hotel,2015,September,1,1.0
-4260,Resort Hotel,2016,February,0,0.0918226714063698
+4260,Resort Hotel,2016,February,0,0.09182267140636981
 86971,City Hotel,2016,April,0,0.32375
 74350,City Hotel,2015,July,1,1.0
 6708,Resort Hotel,2016,June,0,0.49200000000000005
@@ -23030,8 +23030,8 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 90039,City Hotel,2016,November,0,0.055
 10824,Resort Hotel,2017,April,1,0.21
 91631,City Hotel,2016,June,0,0.0
-99201,City Hotel,2016,October,0,0.11307692307692306
-4251,Resort Hotel,2016,February,0,0.0918226714063698
+99201,City Hotel,2016,October,0,0.11307692307692309
+4251,Resort Hotel,2016,February,0,0.09182267140636981
 38656,Resort Hotel,2017,July,0,0.68
 54461,City Hotel,2016,July,1,0.9
 12874,Resort Hotel,2017,July,1,0.62
@@ -23059,7 +23059,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 25160,Resort Hotel,2016,June,0,0.03
 81608,City Hotel,2015,December,0,0.07
 25068,Resort Hotel,2016,June,0,0.56
-49260,City Hotel,2016,April,1,0.5646175768675766
+49260,City Hotel,2016,April,1,0.5646175768675767
 21212,Resort Hotel,2016,February,0,0.01
 10375,Resort Hotel,2017,March,1,1.0
 101009,City Hotel,2016,November,0,0.17
@@ -23091,7 +23091,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 38906,Resort Hotel,2017,August,0,0.32
 96716,City Hotel,2016,September,0,0.31
 29225,Resort Hotel,2016,October,0,0.0
-43093,City Hotel,2015,September,1,0.09999999999999998
+43093,City Hotel,2015,September,1,0.1
 107518,City Hotel,2017,March,0,0.05
 28962,Resort Hotel,2016,October,0,0.01
 68589,City Hotel,2017,May,1,1.0
@@ -23151,7 +23151,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 5288,Resort Hotel,2016,April,1,1.0
 73422,City Hotel,2017,August,1,0.34
 47908,City Hotel,2016,March,0,0.01
-79627,City Hotel,2015,October,0,0.11083333333333333
+79627,City Hotel,2015,October,0,0.11083333333333334
 60514,City Hotel,2016,November,1,0.34
 106916,City Hotel,2017,February,0,0.11
 4590,Resort Hotel,2016,March,1,0.83
@@ -23256,7 +23256,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 69634,City Hotel,2017,June,1,0.79825
 16151,Resort Hotel,2015,August,0,0.56
 75053,City Hotel,2015,July,1,1.0
-88917,City Hotel,2016,May,0,0.3704047619047619
+88917,City Hotel,2016,May,0,0.37040476190476196
 113009,City Hotel,2017,May,0,0.34
 16285,Resort Hotel,2015,August,0,0.0
 99429,City Hotel,2016,October,0,0.0
@@ -23333,7 +23333,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 82736,City Hotel,2016,January,0,0.02
 19727,Resort Hotel,2015,December,0,0.0
 18646,Resort Hotel,2015,November,0,0.01
-51366,City Hotel,2016,May,1,0.33195039682539673
+51366,City Hotel,2016,May,1,0.3319503968253968
 116776,City Hotel,2017,July,0,0.63
 82260,City Hotel,2016,January,0,0.02
 62801,City Hotel,2017,January,1,1.0
@@ -23344,7 +23344,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 82536,City Hotel,2015,December,0,0.0
 77787,City Hotel,2015,September,0,0.0
 10842,Resort Hotel,2017,April,1,0.59
-62379,City Hotel,2017,January,1,0.6916666666666668
+62379,City Hotel,2017,January,1,0.6916666666666665
 43786,City Hotel,2015,September,0,0.0
 47119,City Hotel,2016,February,1,0.62
 2274,Resort Hotel,2015,October,1,0.05
@@ -23434,7 +23434,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 21336,Resort Hotel,2016,February,0,0.02
 3512,Resort Hotel,2015,December,1,0.93
 77849,City Hotel,2015,September,0,0.0
-106467,City Hotel,2017,February,0,0.474905418896072
+106467,City Hotel,2017,February,0,0.4749054188960721
 21652,Resort Hotel,2016,March,0,0.04
 39539,Resort Hotel,2017,August,0,0.18
 81349,City Hotel,2015,December,0,0.05
@@ -23478,7 +23478,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 88241,City Hotel,2016,April,0,0.0
 46880,City Hotel,2016,January,0,0.63
 113444,City Hotel,2017,June,0,0.37
-67630,City Hotel,2017,May,1,0.699
+67630,City Hotel,2017,May,1,0.6990000000000001
 37948,Resort Hotel,2017,July,0,0.04
 7682,Resort Hotel,2016,August,1,0.77
 95306,City Hotel,2016,August,0,0.13
@@ -23582,7 +23582,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 67233,City Hotel,2017,April,1,0.64
 55613,City Hotel,2016,August,1,0.08
 88324,City Hotel,2016,April,0,0.11
-44534,City Hotel,2015,October,0,0.05933147602823047
+44534,City Hotel,2015,October,0,0.059331476028230475
 94397,City Hotel,2017,August,0,0.22
 107398,City Hotel,2017,March,0,0.35
 12730,Resort Hotel,2017,July,1,0.79
@@ -23606,11 +23606,11 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 75409,City Hotel,2015,September,1,1.0
 76022,City Hotel,2015,September,1,1.0
 50731,City Hotel,2016,May,0,0.28
-4786,Resort Hotel,2016,March,0,0.16107287157287153
+4786,Resort Hotel,2016,March,0,0.16107287157287156
 106792,City Hotel,2017,February,0,0.02
 19689,Resort Hotel,2015,December,0,0.05
 67666,City Hotel,2017,May,1,0.58
-19890,Resort Hotel,2016,January,0,0.34646828463933715
+19890,Resort Hotel,2016,January,0,0.3464682846393372
 55911,City Hotel,2016,August,1,1.0
 39573,Resort Hotel,2017,August,0,0.11
 28836,Resort Hotel,2016,October,0,0.0
@@ -23665,7 +23665,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 118736,City Hotel,2017,August,0,0.225
 36671,Resort Hotel,2017,May,0,0.0
 50854,City Hotel,2016,May,1,0.8587587412587412
-40078,City Hotel,2015,July,0,0.310960123210123
+40078,City Hotel,2015,July,0,0.3109601232101232
 51890,City Hotel,2016,May,0,0.06400566455409913
 107963,City Hotel,2017,March,0,0.28
 7825,Resort Hotel,2016,August,1,0.86
@@ -23698,7 +23698,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 24269,Resort Hotel,2016,October,0,0.0
 51581,City Hotel,2016,May,1,0.89
 108699,City Hotel,2017,March,0,0.26
-63911,City Hotel,2017,February,1,0.474905418896072
+63911,City Hotel,2017,February,1,0.4749054188960721
 115580,City Hotel,2017,July,0,0.45
 1267,Resort Hotel,2015,August,1,0.285
 100321,City Hotel,2016,October,0,0.07
@@ -23736,7 +23736,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 42061,City Hotel,2015,August,1,1.0
 77481,City Hotel,2015,September,0,0.01
 12003,Resort Hotel,2017,June,1,1.0
-4252,Resort Hotel,2016,February,0,0.0918226714063698
+4252,Resort Hotel,2016,February,0,0.09182267140636981
 59778,City Hotel,2016,November,1,1.0
 102142,City Hotel,2016,November,0,0.0
 24029,Resort Hotel,2016,May,0,0.32
@@ -23777,7 +23777,7 @@ row_id,hotel,arrival_date_year,arrival_date_month,actual_is_canceled,predicted_c
 13290,Resort Hotel,2017,August,1,0.79
 115278,City Hotel,2017,July,0,0.47
 96786,City Hotel,2016,September,0,0.13
-22175,Resort Hotel,2016,March,0,0.4966666666666667
+22175,Resort Hotel,2016,March,0,0.49666666666666665
 102019,City Hotel,2016,November,0,0.76
 64027,City Hotel,2017,February,1,0.13
 52121,City Hotel,2016,May,1,1.0
